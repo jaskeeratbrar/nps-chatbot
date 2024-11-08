@@ -1,0 +1,62 @@
+[2024-11-08T07:52:07.901Z] User input: Best trails in Yosemite
+[2024-11-08T07:52:07.903Z] Bot response: I'm here to help with camping and permits. Please ask a specific question!
+[2024-11-08T07:52:10.835Z] User input: parks
+[2024-11-08T07:52:11.283Z] Bot response: Here are some parks: Abraham Lincoln Birthplace National Historical Park, Acadia National Park, Adams National Historical Park
+[2024-11-08T07:52:17.477Z] User input: acadia national park
+[2024-11-08T07:52:17.833Z] Bot response: Here are some parks: Abraham Lincoln Birthplace National Historical Park, Acadia National Park, Adams National Historical Park
+[2024-11-08T07:52:23.882Z] User input: camping permits
+[2024-11-08T07:52:24.354Z] Error: Sorry, something went wrong. Please try again later.
+[2024-11-08T07:52:26.370Z] User input: camping
+[2024-11-08T07:52:26.370Z] Bot response: I'm here to help with camping and permits. Please ask a specific question!
+[2024-11-08T07:52:29.531Z] User input: permits
+[2024-11-08T07:52:29.940Z] Error: Sorry, something went wrong. Please try again later.
+[2024-11-08T07:52:32.336Z] User input: parks
+[2024-11-08T07:52:32.595Z] Bot response: Here are some parks: Abraham Lincoln Birthplace National Historical Park, Acadia National Park, Adams National Historical Park
+[2024-11-08T07:52:36.973Z] User input: alerts
+[2024-11-08T07:52:37.236Z] Bot response: Current alerts: Delayed Opening on Friday, November 8, 2024: Due to recent inclement weather, the monument will not open until 11 a.m. on Friday morning (11/08). The Headland Trail is closed due to icy trail conditions. The Inscription Loop trail is open to Marker 16. | Paradise Road Status: Closed: 11/07/2024 The gate to Paradise at Longmire is closed and is projected to open tomorrow morning at 9 AM. All vehicles are required to care tire traction devices while in the park. | Park closed Friday for snow removal: Valles Caldera National Preserve will remain closed Friday, November 8, to allow time for snow removal and trail grooming.
+[2024-11-08T07:55:24.698Z] User input: What permits do I need for camping?
+[2024-11-08T07:55:25.051Z] Error: Sorry, something went wrong. Please try again later.
+[2024-11-08T07:55:28.159Z] User input: parks
+[2024-11-08T07:55:28.422Z] Bot response: Here are some parks: Abraham Lincoln Birthplace National Historical Park, Acadia National Park, Adams National Historical Park
+[2024-11-08T07:55:32.298Z] User input: yose
+[2024-11-08T07:55:32.298Z] Bot response: I'm here to help with camping and permits. Please ask a specific question!
+[2024-11-08T07:55:36.241Z] User input: permits
+[2024-11-08T07:55:36.641Z] Error: Sorry, something went wrong. Please try again later.
+[2024-11-08T07:55:39.384Z] User input: alerts
+[2024-11-08T07:55:39.640Z] Bot response: Current alerts: Delayed Opening on Friday, November 8, 2024: Due to recent inclement weather, the monument will not open until 11 a.m. on Friday morning (11/08). The Headland Trail is closed due to icy trail conditions. The Inscription Loop trail is open to Marker 16. | Paradise Road Status: Closed: 11/07/2024 The gate to Paradise at Longmire is closed and is projected to open tomorrow morning at 9 AM. All vehicles are required to care tire traction devices while in the park. | Park closed Friday for snow removal: Valles Caldera National Preserve will remain closed Friday, November 8, to allow time for snow removal and trail grooming.
+[2024-11-08T07:55:44.199Z] User input: campgrounds
+[2024-11-08T07:55:44.446Z] Bot response: Here are some campgrounds: 277 North Campground, Abrams Creek Campground, Adirondack Shelters
+[2024-11-08T07:55:46.421Z] User input: weather
+[2024-11-08T07:55:46.421Z] Bot response: I'm here to help with camping and permits. Please ask a specific question!
+[2024-11-08T07:57:54.446Z] User input: s
+[2024-11-08T07:57:54.446Z] Bot response: I'm here to help with camping and permits. Please ask a specific question!
+[2024-11-08T07:57:56.174Z] Bot response: I'm here to help with camping and permits. Please ask a specific question!
+[2024-11-08T07:57:56.174Z] User input: d
+[2024-11-08T07:57:59.603Z] User input: hermit
+[2024-11-08T07:57:59.603Z] Bot response: I'm here to help with camping and permits. Please ask a specific question!
+[2024-11-08T07:58:03.071Z] User input: parks
+[2024-11-08T07:58:03.315Z] Bot response: Here are some parks: Abraham Lincoln Birthplace National Historical Park, Acadia National Park, Adams National Historical Park
+[2024-11-08T07:58:05.794Z] User input: alerts
+[2024-11-08T07:58:06.053Z] Bot response: Current alerts: Delayed Opening on Friday, November 8, 2024: Due to recent inclement weather, the monument will not open until 11 a.m. on Friday morning (11/08). The Headland Trail is closed due to icy trail conditions. The Inscription Loop trail is open to Marker 16. | Paradise Road Status: Closed: 11/07/2024 The gate to Paradise at Longmire is closed and is projected to open tomorrow morning at 9 AM. All vehicles are required to care tire traction devices while in the park. | Park closed Friday for snow removal: Valles Caldera National Preserve will remain closed Friday, November 8, to allow time for snow removal and trail grooming.
+[2024-11-08T07:59:56.732Z] User input: What permits do I need for camping?
+[2024-11-08T07:59:57.153Z] Error: Sorry, something went wrong. Please try again later.
+[2024-11-08T08:00:00.579Z] User input: hello
+[2024-11-08T08:00:00.579Z] Bot response: I'm here to help with camping and permits. Please ask a specific question!
+[2024-11-08T08:00:02.844Z] User input: parks
+[2024-11-08T08:00:03.279Z] Bot response: Here are some parks: Abraham Lincoln Birthplace National Historical Park, Acadia National Park, Adams National Historical Park
+[2024-11-08T08:09:55.305Z] User input: Best trails in Yosemite
+[2024-11-08T08:09:55.306Z] Bot response: I'm here to help with camping and permits. Please ask a specific question!
+[2024-11-08T08:09:58.310Z] User input: yose
+[2024-11-08T08:09:58.310Z] Bot response: I'm here to help with camping and permits. Please ask a specific question!
+[2024-11-08T08:10:00.623Z] User input: parks
+[2024-11-08T08:10:00.997Z] Bot response: Here are some parks: Abraham Lincoln Birthplace National Historical Park, Acadia National Park, Adams National Historical Park
+[2024-11-08T08:10:47.590Z] User input: Find campgrounds near me
+[2024-11-08T08:10:47.934Z] Bot response: Here are some campgrounds: 277 North Campground, Abrams Creek Campground, Adirondack Shelters
+[2024-11-08T08:14:51.484Z] User input: Find campgrounds near me
+[2024-11-08T08:14:51.833Z] Bot response: Here are some campgrounds: 277 North Campground, Abrams Creek Campground, Adirondack Shelters
+[2024-11-08T08:14:56.142Z] User input: parks
+[2024-11-08T08:14:56.390Z] Bot response: Here are some parks: Abraham Lincoln Birthplace National Historical Park, Acadia National Park, Adams National Historical Park
+[2024-11-08T08:21:27.542Z] User input: Are pets allowed in parks?
+[2024-11-08T08:21:27.922Z] Bot response: Here are some parks: Abraham Lincoln Birthplace National Historical Park, Acadia National Park, Adams National Historical Park
+[2024-11-08T08:21:39.972Z] User input: lol
+[2024-11-08T08:21:39.972Z] Bot response: I'm here to help with camping and permits. Please ask a specific question!
