@@ -60,3 +60,15 @@
 [2024-11-08T08:21:27.922Z] Bot response: Here are some parks: Abraham Lincoln Birthplace National Historical Park, Acadia National Park, Adams National Historical Park
 [2024-11-08T08:21:39.972Z] User input: lol
 [2024-11-08T08:21:39.972Z] Bot response: I'm here to help with camping and permits. Please ask a specific question!
+[2024-11-08T08:34:57.918Z] User input: parks
+[2024-11-08T08:34:58.321Z] Bot response: Here are some parks: Abraham Lincoln Birthplace National Historical Park, Acadia National Park, Adams National Historical Park
+[2024-11-08T08:35:00.519Z] User input: alerts
+[2024-11-08T08:35:00.883Z] Bot response: Current alerts: Delayed Opening on Friday, November 8, 2024: Due to recent inclement weather, the monument will not open until 11 a.m. on Friday morning (11/08). The Headland Trail is closed due to icy trail conditions. The Inscription Loop trail is open to Marker 16. | Paradise Road Status: Closed: 11/07/2024 The gate to Paradise at Longmire is closed and is projected to open tomorrow morning at 9 AM. All vehicles are required to care tire traction devices while in the park. | Park closed Friday for snow removal: Valles Caldera National Preserve will remain closed Friday, November 8, to allow time for snow removal and trail grooming.
+[2024-11-08T08:36:19.209Z] User input: available permits
+[2024-11-08T08:36:19.745Z] Error: Sorry, something went wrong. Please try again later.
+[2024-11-08T08:37:21.667Z] User input: alerts
+[2024-11-08T08:37:22.019Z] Bot response: Current alerts: Delayed Opening on Friday, November 8, 2024: Due to recent inclement weather, the monument will not open until 11 a.m. on Friday morning (11/08). The Headland Trail is closed due to icy trail conditions. The Inscription Loop trail is open to Marker 16. | Paradise Road Status: Closed: 11/07/2024 The gate to Paradise at Longmire is closed and is projected to open tomorrow morning at 9 AM. All vehicles are required to care tire traction devices while in the park. | Park closed Friday for snow removal: Valles Caldera National Preserve will remain closed Friday, November 8, to allow time for snow removal and trail grooming.
+[2024-11-08T08:37:25.152Z] User input: parks
+[2024-11-08T08:37:25.390Z] Bot response: Here are some parks: Abraham Lincoln Birthplace National Historical Park, Acadia National Park, Adams National Historical Park
+[2024-11-08T08:37:36.976Z] User input: park
+[2024-11-08T08:37:37.338Z] Bot response: Here are some parks: Abraham Lincoln Birthplace National Historical Park, Acadia National Park, Adams National Historical Park

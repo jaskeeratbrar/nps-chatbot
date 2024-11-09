@@ -24,7 +24,7 @@ app.post('/api/chat', async (req, res) => {
     // Example handling for different queries
     if (userMessage.toLowerCase().includes('campgrounds')) {
       const response = await axios.get(`https://developer.nps.gov/api/v1/campgrounds`, {
-        params: { api_key: process.env.NPS_API_KEY, limit: 3 }
+        params: { api_key: process.env.NPS_API_KEY, limit: 5 }
       });
       responseMessage = `Here are some campgrounds: ${response.data.data.map(c => c.name).join(', ')}`;
     } else if (userMessage.toLowerCase().includes('permits')) {
@@ -34,12 +34,12 @@ app.post('/api/chat', async (req, res) => {
       responseMessage = `Available permits: ${response.data.data.map(p => p.title).join(', ')}`;
     } else if (userMessage.toLowerCase().includes('park')) {
       const response = await axios.get(`https://developer.nps.gov/api/v1/parks`, {
-        params: { api_key: process.env.NPS_API_KEY, limit: 3 }
+        params: { api_key: process.env.NPS_API_KEY, limit: 10 }
       });
       responseMessage = `Here are some parks: ${response.data.data.map(p => p.fullName).join(', ')}`;
     } else if (userMessage.toLowerCase().includes('alerts')) {
       const response = await axios.get(`https://developer.nps.gov/api/v1/alerts`, {
-        params: { api_key: process.env.NPS_API_KEY, limit: 3 }
+        params: { api_key: process.env.NPS_API_KEY, limit: 5 }
       });
       responseMessage = `Current alerts: ${response.data.data.map(a => `${a.title}: ${a.description}`).join(' | ')}`;
     } else {
