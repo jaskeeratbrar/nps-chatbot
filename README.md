@@ -20,8 +20,8 @@ A simple chatbot that helps users inquire about National Parks, including campgr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/jaskeeratbrar/nps-chatbot.git
+   cd nps-chatbot
    ```
 2. Install dependencies for both backend and frontend:
    ```bash
@@ -53,7 +53,7 @@ A simple chatbot that helps users inquire about National Parks, including campgr
   "What permits do I need for camping?"
 
 ## Folder Structure
-    ```bash
+    
     ├── backend               # Express server and API integration
     │   ├── index.js          # Main server file
     │   └── .env              # Environment variables (not included in repo)
@@ -63,7 +63,6 @@ A simple chatbot that helps users inquire about National Parks, including campgr
     │   │   ├── index.js      # React entry point
     │   └── public
     └── README.md             # Project documentation
-    ```
 
 ## License
 
