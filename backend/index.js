@@ -13,7 +13,7 @@ app.use(express.json()); // Parse JSON bodies
 
 // Import necessary libraries
 const Fuse = require('fuse.js');
-const nlp = require('compromise'); // For NLP functions if needed
+// const nlp = require('compromise'); // For NLP functions if needed
 
 let parkMapping = [];
 let fuse;
@@ -51,7 +51,7 @@ async function fetchParkData() {
     // Initialize Fuse.js for fuzzy matching
     fuse = new Fuse(parkMapping, {
       keys: ['fullName'],
-      threshold: 0.3, // Adjust as needed
+      threshold: 0.4, // Adjust as needed
     });
 
     console.log('Park data fetched and mapping created.');
@@ -77,61 +77,72 @@ const conversationStates = {};
 // Helper function to generate a unique conversation ID
 const generateConversationId = () => Math.random().toString(36).substring(7);
 
-// Endpoint to handle user messages
 app.post('/api/chat', async (req, res) => {
-  const { userMessage, conversationId } = req.body;
-
-  // If no conversationId is provided, generate one
-  const convoId = conversationId || generateConversationId();
-
-// Initialize conversation state if it doesn't exist
-if (!conversationStates[convoId]) {
-    conversationStates[convoId] = {
-      stage: 'intent_recognition',
-      intentData: null,
-      alertsData: null,
-      lastUserMessage: null,
-      lastAssistantMessage: null,
-      history: '',
-      confirmedParkName: null, // Store confirmed park name here
-    };
-  }
+    const { userMessage, conversationId } = req.body;
   
-  const conversationState = conversationStates[convoId];
+    // If no conversationId is provided, generate one
+    const convoId = conversationId || generateConversationId();
   
-  try {
+    // Initialize conversation state if it doesn't exist
+    if (!conversationStates[convoId]) {
+      conversationStates[convoId] = {
+        stage: 'intent_recognition',
+        intentData: null,
+        alertsData: null,
+        lastUserMessage: null,
+        lastAssistantMessage: null,
+        history: '',
+        confirmedParkName: null, // Store confirmed park name here
+      };
+    }
+  
+    const conversationState = conversationStates[convoId];
+  
+    try {
+      // Start processing the conversation
+      await processConversation(conversationState, userMessage, convoId, res);
+    } catch (error) {
+      console.error('Error:', error.response ? error.response.data : error.message);
+      res.status(500).json({
+        botMessage: 'Sorry, something went wrong. Please try again later.',
+        conversationId: convoId,
+      });
+    }
+  });
+  
+
+async function processConversation(conversationState, userMessage, convoId, res) {
     // Update conversation history
     conversationState.history += `\nUser: "${userMessage}"`;
   
     if (conversationState.stage === 'intent_recognition') {
-      // Step 1: Intent Recognition
-  
+      // Intent Recognition Stage
       const intentPrompt = `
-  You are an AI assistant that identifies user intents related to National Parks.
+    You are an AI assistant that identifies user intents related to National Parks.
   
-  Conversation history:
-  ${conversationState.history}
+    Conversation history:
+    ${conversationState.history}
   
-  Based on the conversation, please extract and provide the following:
+    Please focus on the user's last message to determine the intent.
   
-  - **intent**: What is the user asking for? Choose one of the following intents:
-    - "park_hours": User wants to know the operating hours of a park.
-    - "permits": User is inquiring about permits.
-    - "events": User wants information about events.
-    - "alerts": User wants to **retrieve current alerts** or warnings for a park (e.g., closures, weather warnings).
-    - "general_info": User is asking for general information about a park.
-    - "specific_alert": User is asking for more details about a specific alert.
+    Based on the conversation, please extract and provide the following:
   
-  - **park_name**: The exact name of the park involved (if any), as officially recognized by the National Park Service.
+    - **intent**: What is the user asking for? Choose one of the following intents:
+      - "park_hours": User wants to know the operating hours of a park.
+      - "permits": User is inquiring about permits.
+      - "events": User wants information about events.
+      - "alerts": User wants to **retrieve current alerts** or warnings for a park (e.g., closures, weather warnings).
+      - "general_info": User is asking for general information about a park.
+      - "specific_alert": User is asking for more details about a specific alert.
   
-  - **alert_type**: If the intent is "specific_alert", specify the type of alert (e.g., "road closures", "trail closures").
+    - **park_name**: The exact name of the park involved (if any), as officially recognized by the National Park Service.
   
-  - **confirmation_message**: A message to confirm the intent (and alert type, if applicable) with the user.
+    - **alert_type**: If the intent is "specific_alert", specify the type of alert (e.g., "road closures", "trail closures").
   
-  For alerts, format each alert in a **bullet-pointed or numbered summary**, highlighting key details like the title, description, category, and any available URL.
+    - **confirmation_message**: A message to confirm the intent (and park name, and alert type if applicable) with the user.
   
-  Provide your response in JSON format without any additional text.
-  `;
+    Provide your response in JSON format without any additional text.
+    `;
   
       const intentCompletion = await openai.chat.completions.create({
         model: 'gpt-3.5-turbo',
@@ -140,7 +151,6 @@ if (!conversationStates[convoId]) {
         temperature: 0,
       });
   
-      // Parse the assistant's response
       const intentResponse = intentCompletion.choices[0].message.content.trim();
       let intentData;
   
@@ -150,11 +160,14 @@ if (!conversationStates[convoId]) {
         throw new Error('Failed to parse intent data from ChatGPT.');
       }
   
-      // Store intent data in conversation state
+      // Update conversation state
       conversationState.intentData = intentData;
   
-      // If park name is confirmed, store it to avoid reconfirming
-      if (intentData.park_name && !conversationState.confirmedParkName) {
+      // Update confirmedParkName whenever a new park is mentioned
+      if (intentData.park_name) {
+        if (conversationState.confirmedParkName && conversationState.confirmedParkName !== intentData.park_name) {
+          conversationState.alertsData = null;
+        }
         conversationState.confirmedParkName = intentData.park_name;
       }
   
@@ -170,19 +183,16 @@ if (!conversationStates[convoId]) {
       conversationState.history += `\nAssistant: "${intentData.confirmation_message}"`;
   
     } else if (conversationState.stage === 'awaiting_confirmation') {
-      // Step 2: Handle User Confirmation
       const userConfirmation = userMessage.toLowerCase();
   
-      // Check if user confirms or introduces a new park name
-      if (['yes', 'yeah', 'correct', 'yep', 'sure', 'right'].includes(userConfirmation)) {
-        conversationState.history += `\nAssistant: "${conversationState.lastAssistantMessage}"`;
-  
-        // Confirmed intent and proceed without reconfirming park name
+      if (['yes', 'yeah', 'correct', 'yep', 'sure', 'right', 'yea'].includes(userConfirmation)) {
+        // Proceed with confirmed intent and park name
         const intent = conversationState.intentData.intent;
-        const parkName = conversationState.confirmedParkName || conversationState.intentData.park_name;
+        const parkName = conversationState.confirmedParkName;
   
         let functionResponse = '';
   
+        // Handle different intents
         if (intent === 'park_hours') {
           functionResponse = await getParkHours(parkName);
         } else if (intent === 'permits') {
@@ -194,51 +204,71 @@ if (!conversationStates[convoId]) {
         } else if (intent === 'alerts') {
           const alertsResult = await getAlerts(parkName);
           functionResponse = alertsResult.message;
-  
-          // Store alerts data in the conversation state
           conversationState.alertsData = alertsResult.data;
+  
+          // Handle no alerts case
+          if (!conversationState.alertsData) {
+            // Reset conversation stage
+            conversationState.stage = 'intent_recognition';
+            conversationState.intentData = null;
+  
+            // Send the response directly
+            res.json({ botMessage: functionResponse, conversationId: convoId });
+            conversationState.history += `\nAssistant: "${functionResponse}"`;
+            conversationState.lastAssistantMessage = functionResponse;
+            return;
+          }
         } else if (intent === 'specific_alert') {
           functionResponse = await getSpecificAlert(userMessage, conversationState);
-        } else if (intent === 'subscribe_alerts') {
-          functionResponse = `Currently, subscribing to alerts is not supported. However, I can provide you with the latest alerts for ${parkName}. Would you like to hear them?`;
         } else {
           functionResponse = "I'm sorry, I don't have information on that topic.";
         }
   
-        // Step 4: Formulate a user-friendly response
+        // Formulate a user-friendly response
         const responsePrompt = `
-  You are an AI assistant that provides information about National Parks.
+    You are an AI assistant that provides information about National Parks.
   
-  Based on the following data, provide a helpful response to the user.
+    Based on the following data, provide a helpful response to the user.
   
-  Data: "${functionResponse}"
+    Data: "${functionResponse}"
   
-  Response should be concise and informative.
-  `;
+    Response should be concise and informative.
+    `;
   
-        const responseCompletion = await openai.chat.completions.create({
-          model: 'gpt-3.5-turbo',
-          messages: [{ role: 'user', content: responsePrompt }],
-          max_tokens: 500,
-          temperature: 0.7,
-        });
+        try {
+          const responseCompletion = await openai.chat.completions.create({
+            model: 'gpt-3.5-turbo',
+            messages: [{ role: 'user', content: responsePrompt }],
+            max_tokens: 750,
+            temperature: 0.7,
+          });
   
-        const finalResponse = responseCompletion.choices[0].message.content.trim();
+          const finalResponse = responseCompletion.choices[0].message.content.trim();
   
-        // Reset conversation stage if needed
-        conversationState.stage = 'intent_recognition';
+          // Reset conversation stage
+          conversationState.stage = 'intent_recognition';
+          conversationState.intentData = null;
+  
+          // Send the response
+          res.json({ botMessage: finalResponse, conversationId: convoId });
+  
+          // Update conversation history
+          conversationState.history += `\nAssistant: "${finalResponse}"`;
+          conversationState.lastAssistantMessage = finalResponse;
+        } catch (error) {
+          console.error('OpenAI API Error:', error.message);
+  
+          res.json({
+            botMessage: 'Sorry, I encountered an error while processing your request. Please try again later.',
+            conversationId: convoId,
+          });
+        }
+  
+      } else if (['no', 'nope', 'incorrect', 'not really'].includes(userConfirmation)) {
+        // User did not confirm; reset confirmedParkName and ask for clarification
+        conversationState.confirmedParkName = null;
         conversationState.intentData = null;
-  
-        // Send the response
-        res.json({ botMessage: finalResponse, conversationId: convoId });
-  
-        // Update conversation history
-        conversationState.history += `\nAssistant: "${finalResponse}"`;
-        conversationState.lastAssistantMessage = finalResponse;
-  
-      } else {
-        // User introduced new park name or did not confirm
-        conversationState.confirmedParkName = null; // Reset confirmed park name to allow reconfirmation
+        conversationState.stage = 'intent_recognition';
   
         const clarificationMessage = 'I apologize for the misunderstanding. Could you please specify which park you’re asking about?';
   
@@ -247,22 +277,31 @@ if (!conversationStates[convoId]) {
           conversationId: convoId,
         });
   
-        // Update conversation history
         conversationState.history += `\nAssistant: "${clarificationMessage}"`;
+  
+      } else {
+        // Assume the user provided additional information or a new request
+        // Update conversation history
+        conversationState.history += `\nUser: "${userMessage}"`;
+  
+        // Re-run intent recognition with the new user message
+        conversationState.stage = 'intent_recognition';
+        conversationState.intentData = null;
+  
+        // **Process the intent recognition immediately**
+        await processConversation(conversationState, userMessage, convoId, res);
+  
+        // **Important:** Return after recursive call to prevent further execution
+        return;
       }
     }
-  } catch (error) {
-    console.error('Error:', error.response ? error.response.data : error.message);
-    res.status(500).json({
-      botMessage: 'Sorry, something went wrong. Please try again later.',
-      conversationId: convoId,
-    });
   }
   
 
 // Function to get park hours from NPS API
 async function getParkHours(parkName) {
   try {
+    console.log(`Getting park hours for: ${parkName}`);
     const parkCode = await getParkCode(parkName);
     if (!parkCode) {
       return `I couldn't find information for ${parkName}. Please check the park name and try again.`;
@@ -296,6 +335,8 @@ async function getParkCode(parkName) {
     console.error('Park data not loaded yet.');
     return null;
   }
+
+  console.log(`Searching for parkName: "${parkName}"`);
 
   // Perform a fuzzy search for the park name
   const results = fuse.search(parkName);
@@ -400,52 +441,52 @@ async function getParkInfo(parkName) {
 }
 
 // Function to get alerts from NPS API
-// Function to get alerts from NPS API
 async function getAlerts(parkName) {
-    try {
-      const parkCode = await getParkCode(parkName);
-      if (!parkCode) {
-        return {
-          message: `I'm sorry, I couldn't find information for "${parkName}". Please check the park name and try again.`,
-          data: null,
-        };
-      }
-  
-      const response = await axios.get('https://developer.nps.gov/api/v1/alerts', {
-        params: {
-          api_key: process.env.NPS_API_KEY,
-          parkCode: parkCode,
-          limit: 50, // Adjust as needed
-        },
-      });
-  
-      const alertsData = response.data.data;
-  
-      if (alertsData.length > 0) {
-        // Format each alert in a bullet-point style
-        let alertsSummary = alertsData.map((alert, index) => {
-          return `**Alert ${index + 1}:**\n- **Title**: ${alert.title}\n- **Description**: ${alert.description}\n- **Category**: ${alert.category}\n${alert.url ? `- **More info**: [Link](${alert.url})` : ''}`;
-        }).join('\n\n');
-  
-        return {
-          message: `Here are the current alerts for ${parkName}:\n\n${alertsSummary}`,
-          data: alertsData, // Return the raw alerts data
-        };
-      } else {
-        return {
-          message: `There are currently no alerts for ${parkName}.`,
-          data: null,
-        };
-      }
-    } catch (error) {
-      console.error('NPS API Error:', error.response ? error.response.data : error.message);
+  try {
+    const parkCode = await getParkCode(parkName);
+    if (!parkCode) {
       return {
-        message: 'Unable to retrieve alerts at this time.',
+        message: `I'm sorry, I couldn't find information for "${parkName}". Please check the park name and try again.`,
         data: null,
       };
     }
+
+    const response = await axios.get('https://developer.nps.gov/api/v1/alerts', {
+      params: {
+        api_key: process.env.NPS_API_KEY,
+        parkCode: parkCode,
+        limit: 50, // Adjust as needed
+      },
+      timeout: 3000, // Set a timeout of 10 seconds
+
+    });
+
+    const alertsData = response.data.data;
+
+    if (alertsData.length > 0) {
+      // Format each alert in a bullet-point style
+      let alertsSummary = alertsData.map((alert, index) => {
+        return `**Alert ${index + 1}:**\n- **Title**: ${alert.title}\n- **Description**: ${alert.description}\n- **Category**: ${alert.category}\n${alert.url ? `- **More info**: [Link](${alert.url})` : ''}`;
+      }).join('\n\n');
+
+      return {
+        message: `Here are the current alerts for ${parkName}:\n\n${alertsSummary}`,
+        data: alertsData, // Return the raw alerts data
+      };
+    } else {
+      return {
+        message: `There are currently no alerts for ${parkName}.`,
+        data: null,
+      };
+    }
+  } catch (error) {
+    console.error('NPS API Error:', error.response ? error.response.data : error.message);
+    return {
+      message: 'Unable to retrieve alerts at this time.',
+      data: null,
+    };
   }
-  
+}
 
 // Function to handle specific alert queries
 async function getSpecificAlert(userMessage, conversationState) {
@@ -472,9 +513,9 @@ async function getSpecificAlert(userMessage, conversationState) {
       return `**${alert.title}**\nCategory: ${alert.category}\nDescription: ${alert.description}\nURL: ${alert.url}`;
     }).join('\n\n');
 
-    return `Here are the details for ${alertType} in ${conversationState.intentData.park_name}:\n\n${alertsDetails}`;
+    return `Here are the details for ${alertType} in ${conversationState.confirmedParkName}:\n\n${alertsDetails}`;
   } else {
-    return `There are no alerts related to "${alertType}" in ${conversationState.intentData.park_name}.`;
+    return `There are no alerts related to "${alertType}" in ${conversationState.confirmedParkName}.`;
   }
 }
 
