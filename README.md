@@ -1,6 +1,6 @@
 # National Parks Chatbot
 
-A simple chatbot that helps users inquire about National Parks, including campgrounds, permits, parks, and alerts. This app uses the National Park Service (NPS) API to fetch relevant data and can be integrated with an NLP model (such as OpenAI's ChatGPT or Hugging Face models) for enhanced responses. Integration with NLP model is currently WIP. 
+A simple chatbot that helps users inquire about National Parks, including campgrounds, permits, parks, and alerts. This app uses the National Park Service (NPS) API to fetch relevant data and is integrated with Open AI API for using GPT models.
 
 ## Features
 
@@ -14,7 +14,7 @@ A simple chatbot that helps users inquire about National Parks, including campgr
 
 1. **Node.js** - Install from [nodejs.org](https://nodejs.org/).
 2. **NPS API Key** - Sign up at [NPS API](https://www.nps.gov/subjects/developer/get-started.htm) to get an API key.
-3. **OpenAI API Key** (Optional) - If you want to use ChatGPT for NLP responses, sign up at [OpenAI](https://platform.openai.com/signup).
+3. **OpenAI API Key** - Sign up at [OpenAI](https://platform.openai.com/signup).
 
 ### Installation
 
@@ -35,7 +35,7 @@ A simple chatbot that helps users inquire about National Parks, including campgr
    ```bash
    PORT=5001
    NPS_API_KEY=your_nps_api_key
-   OPENAI_API_KEY=your_openai_api_key  # Optional
+   OPENAI_API_KEY=your_openai_api_key  
    ```
 4. Running the application, open two terminals and run commands below:
    ```bash
