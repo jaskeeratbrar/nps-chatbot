@@ -2,6 +2,8 @@
 
 A simple chatbot that helps users inquire about National Parks, including campgrounds, permits, parks, and alerts. This app uses the National Park Service (NPS) API to fetch relevant data and is integrated with Open AI API for using GPT models.
 
+You can try out this chatbot here: https://tinyurl.com/npschatbot/ 
+
 ## Features
 
 - Answers user questions about National Parks using the NPS API.
