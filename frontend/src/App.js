@@ -1,7 +1,7 @@
 import React, { useState, useRef, useEffect, useMemo } from 'react';
 import {
   TreePine, Mountain, Tent, Compass, Bell, CalendarDays,
-  Car, Video, Route, MapPin, ArrowLeft, Search, X,
+  Car, Video, MapPin, ArrowLeft, Search, X,
   ChevronRight, Check, Mail, Droplets, Flame, Wifi,
   ShowerHead, Zap, Accessibility, Phone, Clock, Sparkles,
   MessageSquare, ExternalLink,
@@ -191,7 +191,7 @@ function ResultText({ text }) {
           return (
             <div key={i} className="flex gap-2">
               <span className="text-emerald-600 flex-shrink-0 mt-0.5">•</span>
-              <span>{renderWithLinks(t.replace(/^[•\-]\s*/, ''))}</span>
+              <span>{renderWithLinks(t.replace(/^[•-]\s*/, ''))}</span>
             </div>
           );
         if (t.startsWith('===') && t.endsWith('==='))
