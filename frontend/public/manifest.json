@@ -1,6 +1,7 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Park Guide",
+  "name": "Park Guide — National Parks Trip Planner",
+  "description": "Campgrounds, alerts, road conditions, events, and AI trip plans for all 474 US national parks.",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,8 +19,10 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/",
   "display": "standalone",
-  "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "orientation": "portrait",
+  "theme_color": "#059669",
+  "background_color": "#fafaf9",
+  "categories": ["travel", "lifestyle", "navigation"]
 }

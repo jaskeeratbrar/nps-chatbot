@@ -1,0 +1,4268 @@
+[
+  {
+    "fullName": "Abraham Lincoln Birthplace National Historical Park",
+    "parkCode": "abli",
+    "states": "KY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/2803B7F0-C045-8B5C-97C10486D366C0C6.jpg",
+      "altText": "The Memorial Building at night lit up by white light"
+    }
+  },
+  {
+    "fullName": "Acadia National Park",
+    "parkCode": "acad",
+    "states": "ME",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7B477B-1DD8-B71B-0BCB48E009241BAA.jpg",
+      "altText": "A brilliant sunset filled with hues of blue, red, orange, magenta, and purple highlight the sky."
+    }
+  },
+  {
+    "fullName": "Adams National Historical Park",
+    "parkCode": "adam",
+    "states": "MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/889E1412-09CD-086C-0BA3855C6E9FF9D3.jpg",
+      "altText": "The Birthplaces of Presidents John Adams (right) and John Quincy Adams (left)"
+    }
+  },
+  {
+    "fullName": "African American Civil War Memorial",
+    "parkCode": "afam",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C816B50-1DD8-B71B-0BF380049FB6B6A2.jpg",
+      "altText": "Site Statue"
+    }
+  },
+  {
+    "fullName": "African Burial Ground National Monument",
+    "parkCode": "afbg",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8554EA-1DD8-B71B-0BE6FF3BF04C18B8.jpg",
+      "altText": "African Burial Ground Memorial"
+    }
+  },
+  {
+    "fullName": "Agate Fossil Beds National Monument",
+    "parkCode": "agfo",
+    "states": "NE",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A058F-1DD8-B71B-0B188ED102F7285F.jpg",
+      "altText": "The visitor center sits in the middle of mixed grass prairie."
+    }
+  },
+  {
+    "fullName": "Ala Kahakai National Historic Trail",
+    "parkCode": "alka",
+    "states": "HI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/12DBDA50-CD81-A60F-A535BCB55C07A5F9.jpg",
+      "altText": "Aerial photograph of trail through lava along the Hawaiian Coast"
+    }
+  },
+  {
+    "fullName": "Alagnak Wild River",
+    "parkCode": "alag",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7E810E-1DD8-B71B-0B92FDF31F5C0CA6.jpg",
+      "altText": "underwater photo of salmon swimming in river"
+    }
+  },
+  {
+    "fullName": "Alaska Public Lands",
+    "parkCode": "anch",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/2595FA12-DF7A-1B6C-55D8F41ABCA2E011.jpg",
+      "altText": "Two Hikers stand on top of a very large granite boulder, looking out across the landscape"
+    }
+  },
+  {
+    "fullName": "Alcatraz Island",
+    "parkCode": "alca",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/2514A14F-D5E3-BB31-4A0C4175BF61216A.jpg",
+      "altText": "View of the Alcatraz Lighthouse and Island from the water"
+    }
+  },
+  {
+    "fullName": "Aleutian Islands World War II National Historic Area",
+    "parkCode": "aleu",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7BC1AE-1DD8-B71B-0BF60FDE7A21822B.jpg",
+      "altText": "Group of people around a Russian cross in tall grass"
+    }
+  },
+  {
+    "fullName": "Alibates Flint Quarries National Monument",
+    "parkCode": "alfl",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7EFA64-1DD8-B71B-0BD2E6EF7D52B0BF.jpg",
+      "altText": "Turtle Petroglyph at Antelope Creek Village Site"
+    }
+  },
+  {
+    "fullName": "Allegheny Portage Railroad National Historic Site",
+    "parkCode": "alpo",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/2C12F155-DE91-DD44-9108A954EB6F3DF6.jpg",
+      "altText": "Engine House and tavern"
+    }
+  },
+  {
+    "fullName": "Amache National Historic Site",
+    "parkCode": "amch",
+    "states": "CO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C1E570C9-C140-0E81-EDDC02810B0B7EAE.jpg",
+      "altText": "reconstructed barracks, guard and water towers surrounded by brown grass and shrubs."
+    }
+  },
+  {
+    "fullName": "American Memorial Park",
+    "parkCode": "amme",
+    "states": "MP",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8576F5-1DD8-B71B-0B2A1CF96D1F9701.jpg",
+      "altText": "Large lawn in front of the memorial."
+    }
+  },
+  {
+    "fullName": "Amistad National Recreation Area",
+    "parkCode": "amis",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3459C06C-DEA3-F44D-36D1A6393F34BFD4.jpg",
+      "altText": "Sunset over Amistad Reservoir with Highway 90 bridge to left of photo going over the reservoir and i"
+    }
+  },
+  {
+    "fullName": "Anacostia Park",
+    "parkCode": "anac",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C82A965-1DD8-B71B-0B42F2CD698E11A7.jpg",
+      "altText": "Aerial view of Anacostia Drive and the playground"
+    }
+  },
+  {
+    "fullName": "Andersonville National Historic Site",
+    "parkCode": "ande",
+    "states": "GA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C87F1CB-1DD8-B71B-0B8B6223F6173DF9.jpg",
+      "altText": "A cannon sits out in front of a replica of part of the wooden stockade walls once at Andersonville"
+    }
+  },
+  {
+    "fullName": "Andrew Johnson National Historic Site",
+    "parkCode": "anjo",
+    "states": "TN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/CD3972B0-AAA1-30C5-EB867099B9E2B89A.jpg",
+      "altText": "Andrew Johnson Homestead with snow"
+    }
+  },
+  {
+    "fullName": "Aniakchak National Monument & Preserve",
+    "parkCode": "ania",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A78AD-1DD8-B71B-0BF20886BAA0C0DA.jpg",
+      "altText": "A lone raft floats the Aniakchak Wild River as it flows through the \"Gates\""
+    }
+  },
+  {
+    "fullName": "Antietam National Battlefield",
+    "parkCode": "anti",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/BAFFFE67-B158-BC0B-56666381F3C571C3.jpg",
+      "altText": "luminaries placed by Maryland Monument with dramatic orange red clouds"
+    }
+  },
+  {
+    "fullName": "Apostle Islands National Lakeshore",
+    "parkCode": "apis",
+    "states": "WI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/D6607D31-F031-1115-3C8F37DAD0BBB0E2.jpg",
+      "altText": "Tree-covered red cliffs meet greenish blue water, in a bowl shape."
+    }
+  },
+  {
+    "fullName": "Appalachian National Scenic Trail",
+    "parkCode": "appa",
+    "states": "CT,GA,MA,MD,ME,NC,NH,NJ,NY,PA,TN,VA,VT,WV",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8397D6-1DD8-B71B-0BEF4C54462A1EB3.jpg",
+      "altText": "Silhouette of a man with backpack standing on McAfee Knob at sunset with mountains in the distance."
+    }
+  },
+  {
+    "fullName": "Appomattox Court House National Historical Park",
+    "parkCode": "apco",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C85DA69-1DD8-B71B-0B56D1B9F92263B5.jpg",
+      "altText": "This is the home where Gen. Lee surrendered to Gen. Grant on April 9, 1865"
+    }
+  },
+  {
+    "fullName": "Arches National Park",
+    "parkCode": "arch",
+    "states": "UT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/473F5463-F0D2-261D-CEF5FCB39363590B.jpg",
+      "altText": "A crowd of people sit and watch the sunset at delicate arch."
+    }
+  },
+  {
+    "fullName": "Arkansas Post National Memorial",
+    "parkCode": "arpo",
+    "states": "AR",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C847F86-1DD8-B71B-0B476A9BC4ABFDBB.jpg",
+      "altText": "confluence of two rivers"
+    }
+  },
+  {
+    "fullName": "Arlington House, The Robert E. Lee Memorial",
+    "parkCode": "arho",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C6780B46-B0C0-FB79-E17378C527E54DA7.jpeg",
+      "altText": "Columns of Arlington House"
+    }
+  },
+  {
+    "fullName": "Assateague Island National Seashore",
+    "parkCode": "asis",
+    "states": "MD,VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C809F06-1DD8-B71B-0B39C9B927D2C688.jpg",
+      "altText": "Wild horses on the dunes at Assateague"
+    }
+  },
+  {
+    "fullName": "Aztec Ruins National Monument",
+    "parkCode": "azru",
+    "states": "NM",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C80AFE4-1DD8-B71B-0BE2EEFC92413401.jpg",
+      "altText": "Reconstructed stone kiva amidst stone ruins"
+    }
+  },
+  {
+    "fullName": "Badlands National Park",
+    "parkCode": "badl",
+    "states": "SD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C82EE63-1DD8-B71B-0BD6EE0FDCB5D402.jpg",
+      "altText": "Layered badlands formations behind fields of green grass under cloudy and billowing clouds."
+    }
+  },
+  {
+    "fullName": "Baltimore-Washington Parkway",
+    "parkCode": "bawa",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7F83E6-1DD8-B71B-0BD4AB5763204C1E.jpg",
+      "altText": "Gladys Noon Spellman sign on the Baltimore Washington Parkway"
+    }
+  },
+  {
+    "fullName": "Bandelier National Monument",
+    "parkCode": "band",
+    "states": "NM",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C830B03-1DD8-B71B-0BA1266ED9B0CE08.jpg",
+      "altText": "the village of Tyuonyi"
+    }
+  },
+  {
+    "fullName": "Belmont-Paul Women's Equality National Monument",
+    "parkCode": "bepa",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/6E4F7F3F-1DD8-B71B-0BBDE514BEF76FDF.jpg",
+      "altText": "Belmont-Paul Women's Equality NM House"
+    }
+  },
+  {
+    "fullName": "Bent's Old Fort National Historic Site",
+    "parkCode": "beol",
+    "states": "CO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/8972C604-C83B-B0DB-257152905A0AA122.jpeg",
+      "altText": "Two animals are tied to a wooden frame in the interior of a large adobe structure."
+    }
+  },
+  {
+    "fullName": "Bering Land Bridge National Preserve",
+    "parkCode": "bela",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A859F-1DD8-B71B-0B24F438FBCB2BE9.jpg",
+      "altText": "Three wet muskox stand in a line."
+    }
+  },
+  {
+    "fullName": "Big Bend National Park",
+    "parkCode": "bibe",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/8BF8356B-BB63-76A4-19F5296EF94C96B4.jpg",
+      "altText": "Blooming Cenizo"
+    }
+  },
+  {
+    "fullName": "Big Cypress National Preserve",
+    "parkCode": "bicy",
+    "states": "FL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C224B1D4-CDDA-B563-05F29F0ECFF365A4.jpg",
+      "altText": "A small alligator basking on top of dry vegetation."
+    }
+  },
+  {
+    "fullName": "Big Hole National Battlefield",
+    "parkCode": "biho",
+    "states": "MT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/99279113-1DD8-B71B-0BF75905FA3FFC7A.jpg",
+      "altText": "Multiple tepee poles and a river are silhouetted against a dawn sky."
+    }
+  },
+  {
+    "fullName": "Big South Fork National River & Recreation Area",
+    "parkCode": "biso",
+    "states": "KY,TN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C793E18-1DD8-B71B-0B815C3EA6EF7F23.jpg",
+      "altText": "Big South Fork NRRA in Fall"
+    }
+  },
+  {
+    "fullName": "Big Thicket National Preserve",
+    "parkCode": "bith",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/FA692D17-BDCC-E98F-C537FAF2CE0D7796.jpg",
+      "altText": "Leafless bald cypress trees and knees stand in a swamp filled with leaves and branches in winter."
+    }
+  },
+  {
+    "fullName": "Bighorn Canyon National Recreation Area",
+    "parkCode": "bica",
+    "states": "MT,WY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8210BC-1DD8-B71B-0B15EAD02A4BA4D2.jpg",
+      "altText": "Summer view of the Yellowtail Dam from the Ok-A-Beh road."
+    }
+  },
+  {
+    "fullName": "Birmingham Civil Rights National Monument",
+    "parkCode": "bicr",
+    "states": "AL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/D22DF28C-CD37-750E-EB966436CB1DB631.jpeg",
+      "altText": "4 separate statues of the four little girls who were killed in the 16th st Baptist Church bombing"
+    }
+  },
+  {
+    "fullName": "Biscayne National Park",
+    "parkCode": "bisc",
+    "states": "FL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8717A4-1DD8-B71B-0B2EED68CFA7E008.jpg",
+      "altText": "Coral reef with two snorkelers diving below the surface"
+    }
+  },
+  {
+    "fullName": "Black Canyon Of The Gunnison National Park",
+    "parkCode": "blca",
+    "states": "CO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C81655F-1DD8-B71B-0B4BCFFDB74EE723.jpg",
+      "altText": "Black Canyon near Tomichi Point"
+    }
+  },
+  {
+    "fullName": "Blackstone River Valley National Historical Park",
+    "parkCode": "blrv",
+    "states": "RI,MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/0BD0215D-B0D9-7E37-CFF0CDB2B29679CC.png",
+      "altText": "Slater Mill, Wilkinson Mill and Brown House at Blackstone River Valley NHP"
+    }
+  },
+  {
+    "fullName": "Blackwell School National Historic Site",
+    "parkCode": "blsc",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/41BC060B-9362-F9FE-AD6294CE7DF1B02A.jpg",
+      "altText": "cream colored building with two windows and a wooden doorway with steps leading up to it."
+    }
+  },
+  {
+    "fullName": "Blue Ridge Parkway",
+    "parkCode": "blri",
+    "states": "NC,VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/87E985D9-BF92-9DC3-74B91467FBA15010.jpg",
+      "altText": "A long pine tree stands in front of distant mountain ridges beneath an orange sunset"
+    }
+  },
+  {
+    "fullName": "Bluestone National Scenic River",
+    "parkCode": "blue",
+    "states": "WV",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C800E49-1DD8-B71B-0BD0956F0EFE00F0.jpg",
+      "altText": "Bluestone River"
+    }
+  },
+  {
+    "fullName": "Booker T Washington National Monument",
+    "parkCode": "bowa",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C78FE2A-1DD8-B71B-0B28DF0A7DEA50EB.jpg",
+      "altText": "Tobacco field being plowed by man with two draft horses"
+    }
+  },
+  {
+    "fullName": "Boston African American National Historic Site",
+    "parkCode": "boaf",
+    "states": "MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C790CB4-1DD8-B71B-0B29F4B5171A78B3.jpg",
+      "altText": "A yellow wooden house on Beacon Hill"
+    }
+  },
+  {
+    "fullName": "Boston Harbor Islands National Recreation Area",
+    "parkCode": "boha",
+    "states": "MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C858BDF-1DD8-B71B-0B6D6FFEF068BAB3.jpg",
+      "altText": "A child dancing on the beach at dusk"
+    }
+  },
+  {
+    "fullName": "Boston National Historical Park",
+    "parkCode": "bost",
+    "states": "MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/96C1990B-1DD8-B71B-0B8920EBAE88BC49.jpg",
+      "altText": "View of the Colonial Town Meeting program from the desk"
+    }
+  },
+  {
+    "fullName": "Brices Cross Roads National Battlefield Site",
+    "parkCode": "brcr",
+    "states": "MS",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C844204-1DD8-B71B-0BF8D1D53809C1E1.jpg",
+      "altText": "The monument with cannons on each side"
+    }
+  },
+  {
+    "fullName": "Brown v. Board of Education National Historical Park",
+    "parkCode": "brvb",
+    "states": "KS",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8422BD-1DD8-B71B-0BB53F08D10856B9.jpg",
+      "altText": "Brown v Board National Historical Park"
+    }
+  },
+  {
+    "fullName": "Bryce Canyon National Park",
+    "parkCode": "brca",
+    "states": "UT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/61F08520-E14F-18F2-BF5F3D89482631BD.jpg",
+      "altText": "A red rock landscape and plateau forest glows with the morning sun"
+    }
+  },
+  {
+    "fullName": "Buck Island Reef National Monument",
+    "parkCode": "buis",
+    "states": "VI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/9166F458-AD79-8637-97F62EDA1485FF6A.jpg",
+      "altText": "Snorkeler swimming by Elkhorn Coral at Buck Island Reef NM."
+    }
+  },
+  {
+    "fullName": "Buffalo National River",
+    "parkCode": "buff",
+    "states": "AR",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7AAA8F-1DD8-B71B-0B030B40F222703A.jpg",
+      "altText": "A large bluff shelter near Buffalo Point."
+    }
+  },
+  {
+    "fullName": "Butterfield Overland National Historic Trail",
+    "parkCode": "buov",
+    "states": "MO,AR,OK,TX,NM,AZ,CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/9FE3B918-08B8-B25B-1BDD48E090045099.jpg",
+      "altText": "A cross and bell on the roof alcove of a white stucco church."
+    }
+  },
+  {
+    "fullName": "Cabrillo National Monument",
+    "parkCode": "cabr",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C83BD0E-1DD8-B71B-0B8A7140406810C6.jpg",
+      "altText": "Tidepools at Cabrillo"
+    }
+  },
+  {
+    "fullName": "California National Historic Trail",
+    "parkCode": "cali",
+    "states": "CA,CO,ID,KS,MO,NE,NV,OR,UT,WY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7B7987-1DD8-B71B-0B3C3123ED8F686B.jpg",
+      "altText": "A white canvas wagon sits in front of a large rock buttress with mountains in the distance."
+    }
+  },
+  {
+    "fullName": "Camp Nelson National Monument",
+    "parkCode": "cane",
+    "states": "KY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/90265CF2-ADE6-04D6-1CDC533B004D9746.jpg",
+      "altText": "A paved path leads to a gray wooden building with US Flag flying."
+    }
+  },
+  {
+    "fullName": "Canaveral National Seashore",
+    "parkCode": "cana",
+    "states": "FL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/55D27C61-D079-2CAA-76210898EB90B25C.jpg",
+      "altText": "Dune plants, beach, and ocean."
+    }
+  },
+  {
+    "fullName": "Cane River Creole National Historical Park",
+    "parkCode": "cari",
+    "states": "LA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/FF225B2C-08F8-7008-74039BCDFF98F1FF.jpg",
+      "altText": "A small cabin sits beneath the branches of a Live Oak in the Oakland Plantation Quarters."
+    }
+  },
+  {
+    "fullName": "Canyon de Chelly National Monument",
+    "parkCode": "cach",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C840D48-1DD8-B71B-0B7CD1781BEC0D0D.png",
+      "altText": "Farm in the canyon"
+    }
+  },
+  {
+    "fullName": "Canyonlands National Park",
+    "parkCode": "cany",
+    "states": "UT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A525D-1DD8-B71B-0B8E59D2EB39F6D0.jpg",
+      "altText": "a broad stone arch with rock pinnacles in the distance"
+    }
+  },
+  {
+    "fullName": "Cape Cod National Seashore",
+    "parkCode": "caco",
+    "states": "MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C853027-1DD8-B71B-0B7E332E35FF7626.jpg",
+      "altText": "A curling wave breaks against the backdrop of a pink sunrise."
+    }
+  },
+  {
+    "fullName": "Cape Hatteras National Seashore",
+    "parkCode": "caha",
+    "states": "NC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C835612-1DD8-B71B-0BA2C4F36928F354.jpg",
+      "altText": "The first-order Fresnel lens is visible in the lantern room of the Bodie Island Lighthouse."
+    }
+  },
+  {
+    "fullName": "Cape Henry Memorial Part of Colonial National Historical Park",
+    "parkCode": "came",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C79AA09-1DD8-B71B-0B4B7A5D37A9CBA5.jpg",
+      "altText": "Memorial Cross"
+    }
+  },
+  {
+    "fullName": "Cape Krusenstern National Monument",
+    "parkCode": "cakr",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A2014-1DD8-B71B-0B764AD7207B0477.jpg",
+      "altText": "muskox standing on the tundra"
+    }
+  },
+  {
+    "fullName": "Cape Lookout National Seashore",
+    "parkCode": "calo",
+    "states": "NC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C86A358-1DD8-B71B-0BC275CB93DB8D43.jpg",
+      "altText": ": Black & white patterned tower of the Cape Lookout Lighthouse stands against a blue & white cloud f"
+    }
+  },
+  {
+    "fullName": "Capitol Hill Parks",
+    "parkCode": "cahi",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C83F12F-1DD8-B71B-0BEFAC8C0BD90E8F.jpg",
+      "altText": "Emancipation Group Memorial"
+    }
+  },
+  {
+    "fullName": "Capitol Reef National Park",
+    "parkCode": "care",
+    "states": "UT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C82E3C7-1DD8-B71B-0B4181834EE46AED.jpg",
+      "altText": "Wingate Sandstone cliffs behind historic barn and farmhouse"
+    }
+  },
+  {
+    "fullName": "Captain John Smith Chesapeake National Historic Trail",
+    "parkCode": "cajo",
+    "states": "VA,MD,DE,DC,PA,NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C823100-1DD8-B71B-0B3AE3516DDF485B.jpg",
+      "altText": "A heron at sunset in the waters and marshes of Blackwater National Wildlife Refuge"
+    }
+  },
+  {
+    "fullName": "Capulin Volcano National Monument",
+    "parkCode": "cavo",
+    "states": "NM",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C84FCB2-1DD8-B71B-0BE4C7320D95575F.jpg",
+      "altText": "A cloud shrouded volcano rises behind a field of yellow flowers."
+    }
+  },
+  {
+    "fullName": "Carl Sandburg Home National Historic Site",
+    "parkCode": "carl",
+    "states": "NC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C798702-1DD8-B71B-0B01ED72F322BC48.jpg",
+      "altText": "A view of the Sandburg Home as visitors enter the park"
+    }
+  },
+  {
+    "fullName": "Carlisle Federal Indian Boarding School National Monument",
+    "parkCode": "cibs",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/E8C9CDA6-E69B-8060-4B02ABC94A23AB34.jpg",
+      "altText": "Historic black and white image of a large boarding school campus"
+    }
+  },
+  {
+    "fullName": "Carlsbad Caverns National Park",
+    "parkCode": "cave",
+    "states": "NM",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/29C3C977-AAE6-B7FD-3C107828D704A5CB.jpg",
+      "altText": "Photo of Giant Dome and Twin Domes in the Big Room."
+    }
+  },
+  {
+    "fullName": "Carter G. Woodson Home National Historic Site",
+    "parkCode": "cawo",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/93C3FA3C-028F-9E45-D5C31B4A283F60AC.jpg",
+      "altText": "The restored facades of three historic Victorian row-homes on an urban street in Washington, DC"
+    }
+  },
+  {
+    "fullName": "Casa Grande Ruins National Monument",
+    "parkCode": "cagr",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7D9776-1DD8-B71B-0B4D6AE7F16F082E.jpg",
+      "altText": "eathern building under modern roof structure"
+    }
+  },
+  {
+    "fullName": "Castillo de San Marcos National Monument",
+    "parkCode": "casa",
+    "states": "FL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7E9A99-1DD8-B71B-0B5C1C290617CA10.jpg",
+      "altText": "Drawbridge entrance to the Castillo de San Marcos"
+    }
+  },
+  {
+    "fullName": "Castle Clinton National Monument",
+    "parkCode": "cacl",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8541DF-1DD8-B71B-0BFFEA05DAED37D6.jpg",
+      "altText": "Castle Clinton NM Entrance"
+    }
+  },
+  {
+    "fullName": "Castle Mountains National Monument",
+    "parkCode": "camo",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C87A219-1DD8-B71B-0BF28720E6A4AC75.jpg",
+      "altText": "Red rocks frame a stand of Joshua trees and sage brush."
+    }
+  },
+  {
+    "fullName": "Catoctin Mountain Park",
+    "parkCode": "cato",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/88247400-C3C0-D7DE-8C42EF37DF502F7F.jpg",
+      "altText": "Rock formation with mountains in the background"
+    }
+  },
+  {
+    "fullName": "Cedar Breaks National Monument",
+    "parkCode": "cebr",
+    "states": "UT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7E0046-1DD8-B71B-0B98037C3E2F685B.jpg",
+      "altText": "The ground falls away from the viewer creating brilliant rock formations of pink, red, and orange."
+    }
+  },
+  {
+    "fullName": "Cedar Creek & Belle Grove National Historical Park",
+    "parkCode": "cebe",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7F7010-1DD8-B71B-0BBD98AD1E4FD734.jpg",
+      "altText": "Sunrise over Belle Grove"
+    }
+  },
+  {
+    "fullName": "César E. Chávez National Monument",
+    "parkCode": "cech",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A4740-1DD8-B71B-0BF737E1DDD1EA21.jpg",
+      "altText": "A walkway with a fountain"
+    }
+  },
+  {
+    "fullName": "Chaco Culture National Historical Park",
+    "parkCode": "chcu",
+    "states": "NM",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/67485E91-9831-CBE2-DFD63F0452FF69AA.jpg",
+      "altText": "Fajada Butte's silhoutte shown under a timelapse image of stars appearing in a vibrant circle above."
+    }
+  },
+  {
+    "fullName": "Chamizal National Memorial",
+    "parkCode": "cham",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7CCC23-1DD8-B71B-0BD6AD7C38B32185.jpg",
+      "altText": "a bench next to a tree with U.S. and Mexican flags flying against a mountain background"
+    }
+  },
+  {
+    "fullName": "Channel Islands National Park",
+    "parkCode": "chis",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/8DE774D1-CB22-37F2-D826E3F0A73D303A.jpg",
+      "altText": "Steep, rugged ocean cliffs extending in an island chain."
+    }
+  },
+  {
+    "fullName": "Charles Pinckney National Historic Site",
+    "parkCode": "chpi",
+    "states": "SC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C86ACA6-1DD8-B71B-0B4AB188D4CC5AE8.jpg",
+      "altText": "1828 Lowcountry cottage and grounds"
+    }
+  },
+  {
+    "fullName": "Charles Young Buffalo Soldiers National Monument",
+    "parkCode": "chyo",
+    "states": "OH",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/0645BF55-CF33-994E-F247098090A7E65C.jpg",
+      "altText": "A large grey house with dark grey shutters with a green lawn out front under a blue sky"
+    }
+  },
+  {
+    "fullName": "Chattahoochee River National Recreation Area",
+    "parkCode": "chat",
+    "states": "GA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C8083BD1-1DD8-B71B-0BB3FE7205EBC05D.jpg",
+      "altText": "Two adult Great Blue Herons stand watch over their 3 young chicks in the nest."
+    }
+  },
+  {
+    "fullName": "Chesapeake & Ohio Canal National Historical Park",
+    "parkCode": "choh",
+    "states": "DC,MD,WV",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7EC77A-1DD8-B71B-0B67E179DDA9A05A.jpg",
+      "altText": "The rushing river cascades over the rocks of the Potomac"
+    }
+  },
+  {
+    "fullName": "Chesapeake Bay",
+    "parkCode": "cbpo",
+    "states": "DC,DE,MD,NY,PA,VA,WV",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C825EB4-1DD8-B71B-0BCF3FF1FE0211DA.jpg",
+      "altText": "A view of docks and boats in the waterside town of Cape Charles VA"
+    }
+  },
+  {
+    "fullName": "Chickamauga & Chattanooga National Military Park",
+    "parkCode": "chch",
+    "states": "GA,TN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7C0A34-1DD8-B71B-0B9DCF42DA23DD8C.jpg",
+      "altText": "Kelley Cabin"
+    }
+  },
+  {
+    "fullName": "Chickasaw National Recreation Area",
+    "parkCode": "chic",
+    "states": "OK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C81C510-1DD8-B71B-0B34D1FBCE6AA1C6.jpg",
+      "altText": "Lincoln Bridge with Travertine Creek flowing below"
+    }
+  },
+  {
+    "fullName": "Chiricahua National Monument",
+    "parkCode": "chir",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/391E0C41-F660-DF55-E2CD9A1ACFBC63C2.jpg",
+      "altText": "Many rock pinnacles with a valley and mountain range in background"
+    }
+  },
+  {
+    "fullName": "Christiansted National Historic Site",
+    "parkCode": "chri",
+    "states": "VI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/B6133863-E4BF-A90C-C005C0E5ACFDE6C1.jpg",
+      "altText": "View of the Christiansted NHS complex"
+    }
+  },
+  {
+    "fullName": "City Of Rocks National Reserve",
+    "parkCode": "ciro",
+    "states": "ID",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/6969795B-C212-F59F-32D18D86BCB8ACDE.jpg",
+      "altText": "Snow dusted granite formations jut up from a mountainous juniper covered landscape."
+    }
+  },
+  {
+    "fullName": "Civil War Defenses of Washington",
+    "parkCode": "cwdw",
+    "states": "DC,MD,VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C82F2B8-1DD8-B71B-0BEE3AC8B175885F.jpg",
+      "altText": "Historic Fort Davis"
+    }
+  },
+  {
+    "fullName": "Clara Barton National Historic Site",
+    "parkCode": "clba",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8477E7-1DD8-B71B-0BF1DE30138186A7.jpg",
+      "altText": "two and half story wooden frame house with double porch and stone corner posts."
+    }
+  },
+  {
+    "fullName": "Colonial National Historical Park",
+    "parkCode": "colo",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C79E166-1DD8-B71B-0B513F9A61E8A9EB.jpg",
+      "altText": "Yorktown Battlefield"
+    }
+  },
+  {
+    "fullName": "Colorado National Monument",
+    "parkCode": "colm",
+    "states": "CO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C823606-1DD8-B71B-0BF5770F63271B19.jpg",
+      "altText": "View of Independence Monument with Grand Valley in background. Taken from Rim Rock Rock Drive."
+    }
+  },
+  {
+    "fullName": "Coltsville National Historical Park",
+    "parkCode": "colt",
+    "states": "CT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C06E016C-F1BC-766E-AB4A5E99E2FF8F50.jpg",
+      "altText": "Blue dome atop a large factory behind a river"
+    }
+  },
+  {
+    "fullName": "Congaree National Park",
+    "parkCode": "cong",
+    "states": "SC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C862C60-1DD8-B71B-0BB65F7B652BA840.jpg",
+      "altText": "View of the Congaree River during the Fall"
+    }
+  },
+  {
+    "fullName": "Constitution Gardens",
+    "parkCode": "coga",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C815721-1DD8-B71B-0B6B84757C7F343E.jpg",
+      "altText": "Shot of the Garden Pond with the Washington Monument in the background"
+    }
+  },
+  {
+    "fullName": "Coronado National Memorial",
+    "parkCode": "coro",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C82C959-1DD8-B71B-0B596D5EE36DB6CD.jpg",
+      "altText": "Agave stalks and wildflowers with mountains in the distance"
+    }
+  },
+  {
+    "fullName": "Cowpens National Battlefield",
+    "parkCode": "cowp",
+    "states": "SC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C797008-1DD8-B71B-0B2C546FE940A6F3.jpg",
+      "altText": "The sun is coming up on the battlefield in the direction that the Americans would have been facing."
+    }
+  },
+  {
+    "fullName": "Crater Lake National Park",
+    "parkCode": "crla",
+    "states": "OR",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7B227E-1DD8-B71B-0BEECDD24771C381.jpg",
+      "altText": "A view of Crater Lake and Wizard Island"
+    }
+  },
+  {
+    "fullName": "Craters Of The Moon National Monument & Preserve",
+    "parkCode": "crmo",
+    "states": "ID",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/B12C4D19-0A4E-52EC-8CE6D0D975978393.jpg",
+      "altText": "A close-up shot of a folded, waving sea of lava rock, with mountains in the far distance."
+    }
+  },
+  {
+    "fullName": "Cumberland Gap National Historical Park",
+    "parkCode": "cuga",
+    "states": "KY,TN,VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C87BB9F-1DD8-B71B-0B03EA00319ED876.jpg",
+      "altText": "Hensley Settlement"
+    }
+  },
+  {
+    "fullName": "Cumberland Island National Seashore",
+    "parkCode": "cuis",
+    "states": "GA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C803FAD-1DD8-B71B-0BF8968CDECF2468.jpg",
+      "altText": "Sand dunes covered with shrubs and grasses"
+    }
+  },
+  {
+    "fullName": "Curecanti National Recreation Area",
+    "parkCode": "cure",
+    "states": "CO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/A1496038-AF15-BB3A-3FD6DD366CE0BA4C.jpg",
+      "altText": "The snow-capped San Juan Mountain Range looms in the distance as viewed from the Crystal Trail"
+    }
+  },
+  {
+    "fullName": "Cuyahoga Valley National Park",
+    "parkCode": "cuva",
+    "states": "OH",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/F7425874-D97F-BFD6-36581A36C8A7FF0D.jpg",
+      "altText": "People in bright orange kayaks paddle around a bend in a river, past green trees and a rocky shore."
+    }
+  },
+  {
+    "fullName": "Dayton Aviation Heritage National Historical Park",
+    "parkCode": "daav",
+    "states": "OH",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/0B28E77A-B721-B2D1-7549D561D8CE4722.jpg",
+      "altText": "A three-story brick building with tall green windows and a tall photo mural on the glass wall"
+    }
+  },
+  {
+    "fullName": "De Soto National Memorial",
+    "parkCode": "deso",
+    "states": "FL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/5A51F02C-1DD8-B71B-0B73F14FDF6736AE.jpg",
+      "altText": "Reenactor Bill Boston on his horse Dixie in front of the De Soto Monument."
+    }
+  },
+  {
+    "fullName": "Death Valley National Park",
+    "parkCode": "deva",
+    "states": "CA,NV",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/010A933C-95B1-CBCD-D6D64D47D5B81E76.jpg",
+      "altText": "badlands bathed in pale pink and orange light from the setting sun"
+    }
+  },
+  {
+    "fullName": "Delaware Water Gap National Recreation Area",
+    "parkCode": "dewa",
+    "states": "NJ,PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C79C4E3-1DD8-B71B-0B9EC12DFCA00E1C.jpg",
+      "altText": "View of the Delaware River cutting between two low mountain peaks"
+    }
+  },
+  {
+    "fullName": "Denali National Park & Preserve",
+    "parkCode": "dena",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C83CC90-1DD8-B71B-0B1F35E5ED96E36F.jpg",
+      "altText": "a white colored sheep standing on a mountainside overlooking a green valley"
+    }
+  },
+  {
+    "fullName": "Devils Postpile National Monument",
+    "parkCode": "depo",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7D873E-1DD8-B71B-0BF8E731254A9D7E.jpg",
+      "altText": "The Devils Postpile basalt formation resembles tall columns."
+    }
+  },
+  {
+    "fullName": "Devils Tower National Monument",
+    "parkCode": "deto",
+    "states": "WY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C812956-1DD8-B71B-0B0AB4D807441C9D.jpg",
+      "altText": "Devils Tower looming above the trees"
+    }
+  },
+  {
+    "fullName": "Dinosaur National Monument",
+    "parkCode": "dino",
+    "states": "CO,UT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C83D97A-1DD8-B71B-0B61AF7BD82A61B1.jpg",
+      "altText": "the fossilized skull of camarasaurus dinosaur"
+    }
+  },
+  {
+    "fullName": "Dry Tortugas National Park",
+    "parkCode": "drto",
+    "states": "FL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C81050F-1DD8-B71B-0B45EDC68B621860.jpg",
+      "altText": "A few of the stars at night with a view of Fort Jefferson."
+    }
+  },
+  {
+    "fullName": "Dwight D. Eisenhower Memorial",
+    "parkCode": "ddem",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/7E0A4E6C-06D4-F1EC-7717B0A532D6A635.jpg",
+      "altText": "Dwight D. Eisenhower Memorial Entrance"
+    }
+  },
+  {
+    "fullName": "Ebey's Landing National Historical Reserve",
+    "parkCode": "ebla",
+    "states": "WA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C84BC00-1DD8-B71B-0BD2CA9CA44675E9.jpg",
+      "altText": "View from the Bluff Overlook"
+    }
+  },
+  {
+    "fullName": "Edgar Allan Poe National Historic Site",
+    "parkCode": "edal",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7AD5D5-1DD8-B71B-0BAF630A8D440C44.jpg",
+      "altText": "Color photo of a rectangular three story brick home with rows of windows on each floor."
+    }
+  },
+  {
+    "fullName": "Effigy Mounds National Monument",
+    "parkCode": "efmo",
+    "states": "IA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7BB1E2-1DD8-B71B-0B5500DF447CB89D.jpg",
+      "altText": "Bear Effigy Mounds with visitor walking nearby."
+    }
+  },
+  {
+    "fullName": "Eisenhower National Historic Site",
+    "parkCode": "eise",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C81389C-1DD8-B71B-0BDD6A8DAF590B3E.jpg",
+      "altText": "The Eisenhower home with Ike's putting green in the foreground"
+    }
+  },
+  {
+    "fullName": "El Camino Real de los Tejas National Historic Trail",
+    "parkCode": "elte",
+    "states": "TX,LA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7E7812-1DD8-B71B-0B21FD984B4C001C.jpg",
+      "altText": "Mexican mission stands in the dirt"
+    }
+  },
+  {
+    "fullName": "El Camino Real de Tierra Adentro National Historic Trail",
+    "parkCode": "elca",
+    "states": "NM,TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A6685-1DD8-B71B-0B18BFB9BABA6FCD.jpg",
+      "altText": "tan-colored pueblo Indian ruins with blue sky and three people"
+    }
+  },
+  {
+    "fullName": "El Malpais National Monument",
+    "parkCode": "elma",
+    "states": "NM",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/40AD6A6E-E9B1-E6D9-779C33D5A86F5316.jpg",
+      "altText": "Yellow sandstone cliff at sunset with dark lava field in background"
+    }
+  },
+  {
+    "fullName": "El Morro National Monument",
+    "parkCode": "elmo",
+    "states": "NM",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7E4D4D-1DD8-B71B-0B9B5562C2BAACFC.jpg",
+      "altText": "El Morro with Sunflowers"
+    }
+  },
+  {
+    "fullName": "Eleanor Roosevelt National Historic Site",
+    "parkCode": "elro",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/7CAE9A2C-B352-222A-CCF3649457EC357F.jpg",
+      "altText": "Val-Kill Cottage in the Summer"
+    }
+  },
+  {
+    "fullName": "Ellis Island Part of Statue of Liberty National Monument",
+    "parkCode": "elis",
+    "states": "NJ,NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C856FAB-1DD8-B71B-0B0DD7A0B6955955.jpg",
+      "altText": "Beaux-Arts brick and limestone building with large arched windows and cupola-topped towers."
+    }
+  },
+  {
+    "fullName": "Emmett Till and Mamie Till-Mobley National Monument",
+    "parkCode": "till",
+    "states": "IL,MS",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/904FA468-C327-634B-B5BD07007C927FAD.jpg",
+      "altText": "Two African Americans sitting in a room and smiling toward the camera."
+    }
+  },
+  {
+    "fullName": "Eugene O'Neill National Historic Site",
+    "parkCode": "euon",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A0334-1DD8-B71B-0B8C905A1ABBFE6A.jpg",
+      "altText": "Eugene O'Neill Home in Danville, California"
+    }
+  },
+  {
+    "fullName": "Everglades National Park",
+    "parkCode": "ever",
+    "states": "FL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/17EC840E-9926-2E09-F2DD47A282915BBB.jpg",
+      "altText": "A sunset creates a silhouette of a cypress tree with needle-like leaves that is shaped like an 'N'."
+    }
+  },
+  {
+    "fullName": "Federal Hall National Memorial",
+    "parkCode": "feha",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C855D19-1DD8-B71B-0B2AF1FAF9721319.jpg",
+      "altText": "“Large crowd inside the rotunda of Federal Hall National Memorial”"
+    }
+  },
+  {
+    "fullName": "Fire Island National Seashore",
+    "parkCode": "fiis",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7D4BAC-1DD8-B71B-0B8798F96FC8F8D7.jpg",
+      "altText": "The Fire Island Lighthouse against a vibrant sunset."
+    }
+  },
+  {
+    "fullName": "First Ladies National Historic Site",
+    "parkCode": "fila",
+    "states": "OH",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C824DCE-1DD8-B71B-0B14D80DEE050385.jpg",
+      "altText": "a front view of the Ida Saxton McKinley House"
+    }
+  },
+  {
+    "fullName": "First State National Historical Park",
+    "parkCode": "frst",
+    "states": "DE,PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/B32AE55E-DDFD-3C76-F3BF23EB7F8FE2AB.jpg",
+      "altText": "Red, yellow, and green leaves lay on the grass in front of a colonial building."
+    }
+  },
+  {
+    "fullName": "Flight 93 National Memorial",
+    "parkCode": "flni",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C85D857-1DD8-B71B-0BEB65F3AD1A3466.jpg",
+      "altText": "Field of white and yellow wildflowers with a white wall in the distance and blue sky above."
+    }
+  },
+  {
+    "fullName": "Florissant Fossil Beds National Monument",
+    "parkCode": "flfo",
+    "states": "CO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7F8744-1DD8-B71B-0BB99F85D26FBB5C.jpg",
+      "altText": "Fossil redwood stump"
+    }
+  },
+  {
+    "fullName": "Ford's Theatre National Historic Site",
+    "parkCode": "foth",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C815286-1DD8-B71B-0BF2AD2960AE4AF6.jpg",
+      "altText": "Picture of the front of Ford's Theatre"
+    }
+  },
+  {
+    "fullName": "Fort Bowie National Historic Site",
+    "parkCode": "fobo",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/30BF20D7-BF6A-1DE6-21266DC5EE3557AF.jpg",
+      "altText": "Ruins of the fort with mountains and valley in the background."
+    }
+  },
+  {
+    "fullName": "Fort Davis National Historic Site",
+    "parkCode": "foda",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7DCD39-1DD8-B71B-0BEE09E6D3EF298C.jpg",
+      "altText": "Garrison Flag flying over the post."
+    }
+  },
+  {
+    "fullName": "Fort Donelson National Battlefield",
+    "parkCode": "fodo",
+    "states": "KY,TN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/6903ED5B-1DD8-B71B-0B29CCAFAED7A0BF.jpg",
+      "altText": "The View from the Upper River Battery"
+    }
+  },
+  {
+    "fullName": "Fort Dupont Park",
+    "parkCode": "fodu",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C82FB0D-1DD8-B71B-0B3FA003572FE8B6.jpg",
+      "altText": "Fort during fall hike"
+    }
+  },
+  {
+    "fullName": "Fort Foote Park",
+    "parkCode": "fofo",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/29827F7B-FB58-C388-8417892C807E7940.jpg",
+      "altText": "A cannon in front of fall leaves"
+    }
+  },
+  {
+    "fullName": "Fort Frederica National Monument",
+    "parkCode": "fofr",
+    "states": "GA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7DD350-1DD8-B71B-0BF0B4C77628ED80.jpg",
+      "altText": "Ruin of Soldier Barracks at Fort Frederica NM"
+    }
+  },
+  {
+    "fullName": "Fort Laramie National Historic Site",
+    "parkCode": "fola",
+    "states": "WY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/A3251779-B98C-568E-63313006F25C5488.jpg",
+      "altText": "A large two story white building with pillars. Several windows with green shutters"
+    }
+  },
+  {
+    "fullName": "Fort Larned National Historic Site",
+    "parkCode": "fols",
+    "states": "KS",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7B90DB-1DD8-B71B-0BC969A75425CFE9.jpg",
+      "altText": "Men in 19th century U.S. Army uniforms fire a reproduction period cannon."
+    }
+  },
+  {
+    "fullName": "Fort Matanzas National Monument",
+    "parkCode": "foma",
+    "states": "FL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/E811D610-C355-6074-0A04E6DFF40C6EEC.jpg",
+      "altText": "Fort Matanzas, a fortified watch tower made form coquina."
+    }
+  },
+  {
+    "fullName": "Fort McHenry National Monument and Historic Shrine",
+    "parkCode": "fomc",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/8F45A684-F00A-CB5C-85186E42923EFBC1.jpg",
+      "altText": "Fort McHenry"
+    }
+  },
+  {
+    "fullName": "Fort Monroe National Monument",
+    "parkCode": "fomr",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C859CCE-1DD8-B71B-0B87DECA53D748EB.jpg",
+      "altText": "Aerial View of Fort Monroe"
+    }
+  },
+  {
+    "fullName": "Fort Necessity National Battlefield",
+    "parkCode": "fone",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/F78F68EB-E4CB-1C1A-9A36EE67336D8B60.jpg",
+      "altText": "Circular stockade in the middle of a meadow. Dramatic clouds build in the blue sky."
+    }
+  },
+  {
+    "fullName": "Fort Point National Historic Site",
+    "parkCode": "fopo",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C800CC0-1DD8-B71B-0B80D91C47D8ACE5.jpg",
+      "altText": "Fort Point with visitors approaching on road in front and Golden Gate Bridge above."
+    }
+  },
+  {
+    "fullName": "Fort Pulaski National Monument",
+    "parkCode": "fopu",
+    "states": "GA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C870DCA-1DD8-B71B-0B2574219E50694B.jpg",
+      "altText": "The red masonry walls of Fort Pulaski still show battle damage over 150 years later."
+    }
+  },
+  {
+    "fullName": "Fort Raleigh National Historic Site",
+    "parkCode": "fora",
+    "states": "NC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C78FF79-1DD8-B71B-0B8F7CC3FCAA5934.jpg",
+      "altText": "Back of the monument commemorating the Roanoke Island Freedmen's Colony"
+    }
+  },
+  {
+    "fullName": "Fort Scott National Historic Site",
+    "parkCode": "fosc",
+    "states": "KS",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C837EE2-1DD8-B71B-0BD0F84088C06269.jpg",
+      "altText": "A field of sunflowers next to a stone building.  Wood frame structures in background."
+    }
+  },
+  {
+    "fullName": "Fort Smith National Historic Site",
+    "parkCode": "fosm",
+    "states": "AR,OK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7CB43F-1DD8-B71B-0B6B515EA0FAACF5.jpg",
+      "altText": "Aerial view of visitor center"
+    }
+  },
+  {
+    "fullName": "Fort Stanwix National Monument",
+    "parkCode": "fost",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/2ED9866F-0D28-4E68-AB932F1C54C0D14A.jpg",
+      "altText": "A park ranger directs a group of children thorugh the fort."
+    }
+  },
+  {
+    "fullName": "Fort Sumter and Fort Moultrie National Historical Park",
+    "parkCode": "fosu",
+    "states": "SC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/E989D519-950E-C3AC-84F007692983681A.jpg",
+      "altText": "A row of cannon with Fort Moultrie in the background. A US flag is flying in the fort."
+    }
+  },
+  {
+    "fullName": "Fort Union National Monument",
+    "parkCode": "foun",
+    "states": "NM",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7C1B33-1DD8-B71B-0B88C189AAA85B01.jpg",
+      "altText": "Panorama of Officers Row"
+    }
+  },
+  {
+    "fullName": "Fort Union Trading Post National Historic Site",
+    "parkCode": "fous",
+    "states": "MT,ND",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C81ACEF-1DD8-B71B-0B1AD164BE2F3313.jpg",
+      "altText": "View from Missouri River bottoms of Southwest bastion"
+    }
+  },
+  {
+    "fullName": "Fort Vancouver National Historic Site",
+    "parkCode": "fova",
+    "states": "OR,WA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7E8577-1DD8-B71B-0B5ABB3F175DDD81.jpg",
+      "altText": "Fort Vancouver Garden"
+    }
+  },
+  {
+    "fullName": "Fort Washington Park",
+    "parkCode": "fowa",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C81C3C3-1DD8-B71B-0B04CE7B7C61FE25.jpg",
+      "altText": "Entrance way into historic Fort Washington"
+    }
+  },
+  {
+    "fullName": "Fossil Butte National Monument",
+    "parkCode": "fobu",
+    "states": "WY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/41C5C9F2-E170-9D8F-5AC0C8BB658F20A6.jpg",
+      "altText": "Fish fossils, Knightia eocaena, exposed near cliff"
+    }
+  },
+  {
+    "fullName": "Frances Perkins National Monument",
+    "parkCode": "frpe",
+    "states": "ME",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/2CC7130F-941F-CA23-DB43310BB9EA5AAB.jpg",
+      "altText": "A two-story red brick home stands just beyond a row of green ferns."
+    }
+  },
+  {
+    "fullName": "Franklin Delano Roosevelt Memorial",
+    "parkCode": "frde",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C822603-1DD8-B71B-0BADCFA6633AC4D6.jpg",
+      "altText": "Picture of FDR in a wheel chair within his memorial"
+    }
+  },
+  {
+    "fullName": "Frederick Douglass National Historic Site",
+    "parkCode": "frdo",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7BDCB8-1DD8-B71B-0BB04B6313FE6EF1.jpg",
+      "altText": "Visitors take photos in front of a historic house"
+    }
+  },
+  {
+    "fullName": "Frederick Law Olmsted National Historic Site",
+    "parkCode": "frla",
+    "states": "MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C853BE9-1DD8-B71B-0B625B6B8B89F1A0.jpg",
+      "altText": "Fairsted"
+    }
+  },
+  {
+    "fullName": "Fredericksburg & Spotsylvania National Military Park",
+    "parkCode": "frsp",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/BC87C21E-A621-18BC-AA6D4063790AD241.jpg",
+      "altText": "A line of four cannons placed in front of crescent shaped earthen gun pits."
+    }
+  },
+  {
+    "fullName": "Freedom Riders National Monument",
+    "parkCode": "frri",
+    "states": "AL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/89E23FDC-9BE7-D83A-83DEECF7210BD97D.jpg",
+      "altText": "Colored Greyhound mural with historical information about the Freedom Riders"
+    }
+  },
+  {
+    "fullName": "Friendship Hill National Historic Site",
+    "parkCode": "frhi",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/7B7689B8-BF0B-AE71-290D810DFE3D0968.jpg",
+      "altText": "Gallatin House - Stone House and South Wing in snow with blue sky"
+    }
+  },
+  {
+    "fullName": "Gates Of The Arctic National Park & Preserve",
+    "parkCode": "gaar",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A8B6B-1DD8-B71B-0B8B89FE0C6B6F4F.jpg",
+      "altText": "Aerial view of the Alatna River as it winds through a valley"
+    }
+  },
+  {
+    "fullName": "Gateway Arch National Park",
+    "parkCode": "jeff",
+    "states": "MO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/200BA7E6-D782-9A97-A8C36AC178DEB31C.jpg",
+      "altText": "The Gateway Arch and Old Courthouse with a row of pink blooming cherry trees in front"
+    }
+  },
+  {
+    "fullName": "Gateway National Recreation Area",
+    "parkCode": "gate",
+    "states": "NY,NJ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C85156E-1DD8-B71B-0BBB764337412E34.jpg",
+      "altText": "Tent at  Floyd Bennett Field campsite in Gateway's Jamaica Bay unit."
+    }
+  },
+  {
+    "fullName": "Gauley River National Recreation Area",
+    "parkCode": "gari",
+    "states": "WV",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7F582C-1DD8-B71B-0BD2BEB50EE7AA86.jpg",
+      "altText": "Rafters enjoying the Gauley River"
+    }
+  },
+  {
+    "fullName": "General Grant National Memorial",
+    "parkCode": "gegr",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C855F85-1DD8-B71B-0B5A4A32E92B3730.jpg",
+      "altText": "Mausoleum and flags in sunny weather"
+    }
+  },
+  {
+    "fullName": "George Rogers Clark National Historical Park",
+    "parkCode": "gero",
+    "states": "IN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C795C28-1DD8-B71B-0BB8A40DEE3F49FD.jpg",
+      "altText": "Sun setting behind the Clark Memorial"
+    }
+  },
+  {
+    "fullName": "George Washington Birthplace National Monument",
+    "parkCode": "gewa",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3D13D699-B89E-E495-18D9F3D4826FD0BE.jpg",
+      "altText": "Two buildings surrounded by green foliage with a brick path leading to the buildings."
+    }
+  },
+  {
+    "fullName": "George Washington Carver National Monument",
+    "parkCode": "gwca",
+    "states": "MO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7C13C3-1DD8-B71B-0B1164958433C548.jpg",
+      "altText": "Bronze status of young George Washington Carver atop a large boulder, on the Carver trail."
+    }
+  },
+  {
+    "fullName": "George Washington Memorial Parkway",
+    "parkCode": "gwmp",
+    "states": "DC,MD,VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C645D155-EDA3-ED3B-6DE6F6A95D3A8A6F.jpg",
+      "altText": "Stone Bridge Along the George Washington Memorial Parkway"
+    }
+  },
+  {
+    "fullName": "Gettysburg National Military Park",
+    "parkCode": "gett",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C5B413E6-FD8C-00FC-60191939A57FE501.jpg",
+      "altText": "A canon sits in front of an equestrian statue."
+    }
+  },
+  {
+    "fullName": "Gila Cliff Dwellings National Monument",
+    "parkCode": "gicl",
+    "states": "NM",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C83FFEC-1DD8-B71B-0B6EC625F8E23652.jpg",
+      "altText": "Sunrise view of Gila Cliff Dwellings with brilliant sky."
+    }
+  },
+  {
+    "fullName": "Glacier Bay National Park & Preserve",
+    "parkCode": "glba",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C791618-1DD8-B71B-0B113FBF2EC1D614.jpg",
+      "altText": "Cruising Glacier Bay"
+    }
+  },
+  {
+    "fullName": "Glacier National Park",
+    "parkCode": "glac",
+    "states": "MT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C20E6CD3-CDF7-B3AB-8448CDCD7FD590FF.jpg",
+      "altText": "Large mountains dotted with snow loom above a rocky meadow filled with yellow flowers."
+    }
+  },
+  {
+    "fullName": "Glen Canyon National Recreation Area",
+    "parkCode": "glca",
+    "states": "AZ,UT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7F1632-1DD8-B71B-0B783D849BA99EC8.jpg",
+      "altText": "Woman raises her arms while standing in front of a sandstone butte"
+    }
+  },
+  {
+    "fullName": "Glen Echo Park",
+    "parkCode": "glec",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C848FDE-1DD8-B71B-0BE1393F7AFBC3D4.jpg",
+      "altText": "groups of families, adults and children strolling in Glen Echo Park near Carousel Building"
+    }
+  },
+  {
+    "fullName": "Gloria Dei Church National Historic Site",
+    "parkCode": "glde",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7FA643-1DD8-B71B-0BC25E1EB46EC74C.jpg",
+      "altText": "A color photo of the Gloria Dei Church steeple during a sunset in Philadelphia."
+    }
+  },
+  {
+    "fullName": "Golden Gate National Recreation Area",
+    "parkCode": "goga",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7FEE17-1DD8-B71B-0BA285725552D8E3.jpg",
+      "altText": "White buildings with red roofs at Crissy Field with blue bay and Golden Gate Bridge and fog behind."
+    }
+  },
+  {
+    "fullName": "Golden Spike National Historical Park",
+    "parkCode": "gosp",
+    "states": "UT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7E7FBB-1DD8-B71B-0BA82B3A17812A08.jpg",
+      "altText": "Two replica victorian age steam locomotives face each other on the original railroad grade"
+    }
+  },
+  {
+    "fullName": "Governors Island National Monument",
+    "parkCode": "gois",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C85A2A1-1DD8-B71B-0B50FD84825F4474.jpg",
+      "altText": "Bridge over dry moat leading into a gated fort."
+    }
+  },
+  {
+    "fullName": "Grand Canyon National Park",
+    "parkCode": "grca",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7B12D1-1DD8-B71B-0BCE0712F9CEA155.jpg",
+      "altText": "The canyon glows orange as people visit Mather Point, a rock outcropping that juts into Grand Canyon"
+    }
+  },
+  {
+    "fullName": "Grand Canyon-Parashant National Monument",
+    "parkCode": "para",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/5FEA14DD-DA42-DE40-C979416A86C8A4AC.jpg",
+      "altText": "Near a cliff edge the sun sets in the distance."
+    }
+  },
+  {
+    "fullName": "Grand Portage National Monument",
+    "parkCode": "grpo",
+    "states": "MN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/242F987D-A5C9-C97D-FA692D01CE985AE4.jpg",
+      "altText": "Historic wooden buildings behind a palisade in a snowy landscape."
+    }
+  },
+  {
+    "fullName": "Grand Teton National Park",
+    "parkCode": "grte",
+    "states": "WY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7FA4C5-1DD8-B71B-0B7FCC54E43FEE79.jpg",
+      "altText": "Backpackers in North Fork Cascade Canyon, Grand Teton behind"
+    }
+  },
+  {
+    "fullName": "Grant-Kohrs Ranch National Historic Site",
+    "parkCode": "grko",
+    "states": "MT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7F26F9-1DD8-B71B-0B805195D3FAF5BF.jpg",
+      "altText": "A front view of the ranch house."
+    }
+  },
+  {
+    "fullName": "Great Basin National Park",
+    "parkCode": "grba",
+    "states": "NV",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/FD29737E-9549-8EF4-90C1076486DE559A.jpeg",
+      "altText": "blue sky with green trees in mountain cirque"
+    }
+  },
+  {
+    "fullName": "Great Egg Harbor River",
+    "parkCode": "greg",
+    "states": "NJ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/69830EAB-1DD8-B71B-0B2995AFD827B8FB.jpg",
+      "altText": "Still river in the winter with leafless trees on either side"
+    }
+  },
+  {
+    "fullName": "Great Falls Park",
+    "parkCode": "grfa",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/F3B82E17-CE9F-1035-D33AE07C0819BBD2.jpg",
+      "altText": "Water pouring down rocks at Great Falls"
+    }
+  },
+  {
+    "fullName": "Great Sand Dunes National Park & Preserve",
+    "parkCode": "grsa",
+    "states": "CO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/BC4ACB4C-0A6D-0188-E9A6AA1217827461.jpg",
+      "altText": "Grasslands, large dunes, and snow-capped peaks at sunset"
+    }
+  },
+  {
+    "fullName": "Great Smoky Mountains National Park",
+    "parkCode": "grsm",
+    "states": "NC,TN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C80E3F4-1DD8-B71B-0BFF4F2280EF1B52.jpg",
+      "altText": "A thick layer of frost covers the fields, trees, and mountains in Cades Cove."
+    }
+  },
+  {
+    "fullName": "Green Springs",
+    "parkCode": "grsp",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/00E4FBBD-1DD8-B71B-0B674A3BE15ACF42.jpg",
+      "altText": "Historic building at Green Springs"
+    }
+  },
+  {
+    "fullName": "Greenbelt Park",
+    "parkCode": "gree",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/44A5DD06-1DD8-B71B-0B61B91EB87117B2.jpg",
+      "altText": "Tent in the Greenbelt Park campground"
+    }
+  },
+  {
+    "fullName": "Guadalupe Mountains National Park",
+    "parkCode": "gumo",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C825533-1DD8-B71B-0B6FDF436F604A3C.jpg",
+      "altText": "El Capitan with blooming claret cup cacti"
+    }
+  },
+  {
+    "fullName": "Guilford Courthouse National Military Park",
+    "parkCode": "guco",
+    "states": "NC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/F649327B-9F59-A88D-E8A82709DC7B2970.jpg",
+      "altText": "Bronze and granite monument of General Nathanael Greene on horseback"
+    }
+  },
+  {
+    "fullName": "Gulf Islands National Seashore",
+    "parkCode": "guis",
+    "states": "FL,MS",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/242ED14D-95F8-A1B3-4BEA8B8817B57B2B.jpg",
+      "altText": "Ferry in the Pensacola Bay"
+    }
+  },
+  {
+    "fullName": "Hagerman Fossil Beds National Monument",
+    "parkCode": "hafo",
+    "states": "ID",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3DE8A223-C218-D1DA-CB8CF6266B45585F.jpg",
+      "altText": "A fossil horse stands in the center of a room filled with posters and display cases"
+    }
+  },
+  {
+    "fullName": "Haleakalā National Park",
+    "parkCode": "hale",
+    "states": "HI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3D05E583-1DD8-B71B-0BBFF82F7F78AF6A.jpg",
+      "altText": "'Ahinahina blooms in Haleakala crater"
+    }
+  },
+  {
+    "fullName": "Hamilton Grange National Memorial",
+    "parkCode": "hagr",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C80DC70-1DD8-B71B-0B9CB85978295244.jpg",
+      "altText": "Hamilton Grange National Memorial"
+    }
+  },
+  {
+    "fullName": "Hampton National Historic Site",
+    "parkCode": "hamp",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/30E70993-1DD8-B71B-0BF669D83ECFDB7A.jpg",
+      "altText": "Hampton Mansion in the fall"
+    }
+  },
+  {
+    "fullName": "Harmony Hall",
+    "parkCode": "haha",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/28A04A53-CF37-9979-72C9072811BC2DD0.jpg",
+      "altText": "Flowers on a tree with a large brick house in the background."
+    }
+  },
+  {
+    "fullName": "Harpers Ferry National Historical Park",
+    "parkCode": "hafe",
+    "states": "WV,VA,MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C829352-1DD8-B71B-0BEB6383BF4B9277.jpg",
+      "altText": "View of Lower Town Harpers Ferry as seen from Maryland Heights"
+    }
+  },
+  {
+    "fullName": "Harriet Tubman National Historical Park",
+    "parkCode": "hart",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/9888332F-EE3A-20BB-813E0AEE37B6A52F.jpg",
+      "altText": "A tall, green and orange painted church steeple, against a blue sky, with a tree in the foreground."
+    }
+  },
+  {
+    "fullName": "Harriet Tubman Underground Railroad National Historical Park",
+    "parkCode": "hatu",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/351D33D4-1DD8-B71B-0B2D84861E200164.jpg",
+      "altText": "Girl stands on a bridge overlooking the marshlands."
+    }
+  },
+  {
+    "fullName": "Harry S Truman National Historic Site",
+    "parkCode": "hstr",
+    "states": "MO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C79AC3C-1DD8-B71B-0BB54731F4D0538A.jpg",
+      "altText": "The Truman home near sunset."
+    }
+  },
+  {
+    "fullName": "Hawaiʻi Volcanoes National Park",
+    "parkCode": "havo",
+    "states": "HI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C4E8415A-08E5-5976-833F494FFCA3FFE6.jpg",
+      "altText": "Rocky coastline with palm trees and a cliff beyon"
+    }
+  },
+  {
+    "fullName": "Herbert Hoover National Historic Site",
+    "parkCode": "heho",
+    "states": "IA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7924AC-1DD8-B71B-0BEDCDE2B64225D5.jpg",
+      "altText": "A one story wood frame house has board-and-batten exterior siding and a picket fence painted white."
+    }
+  },
+  {
+    "fullName": "Historic Jamestowne Part of Colonial National Historical Park",
+    "parkCode": "jame",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C79E67E-1DD8-B71B-0B2D4A6D3D48D7A7.jpg",
+      "altText": "Children In Nature Program at Historic Jamestowne"
+    }
+  },
+  {
+    "fullName": "Home Of Franklin D Roosevelt National Historic Site",
+    "parkCode": "hofr",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/236415B1-F65A-709B-C946C5447868BB66.jpg",
+      "altText": "A stucco and fieldstone house with white trim and circular portico."
+    }
+  },
+  {
+    "fullName": "Homestead National Historical Park",
+    "parkCode": "home",
+    "states": "NE",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/E9AA6622-E74B-C7C1-97C6C3C3676F7519.jpg",
+      "altText": "A historic cabin stands next to a concrete path that leads to a plow shaped visitor center"
+    }
+  },
+  {
+    "fullName": "Honouliuli National Historic Site",
+    "parkCode": "hono",
+    "states": "HI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C86BF53-1DD8-B71B-0BB227CD8FE92BD2.png",
+      "altText": "Satellite image of Honouliuli Gulch with a historic overlay illustrating Honouliuli's layout"
+    }
+  },
+  {
+    "fullName": "Hopewell Culture National Historical Park",
+    "parkCode": "hocu",
+    "states": "OH",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/0C0231CE-C54D-AE33-ACAB8874C99A1B84.jpg",
+      "altText": "An early morning sun casting long shadows over grass-covered mounds."
+    }
+  },
+  {
+    "fullName": "Hopewell Furnace National Historic Site",
+    "parkCode": "hofu",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/ED657889-A026-6AB1-4CA4B6E1D598793B.jpg",
+      "altText": "buildings varying in size on either side of a gravel path."
+    }
+  },
+  {
+    "fullName": "Horseshoe Bend National Military Park",
+    "parkCode": "hobe",
+    "states": "AL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C87586A-1DD8-B71B-0BDE37630D876F7D.jpg",
+      "altText": "blue cannon sits in front of park's visitor center"
+    }
+  },
+  {
+    "fullName": "Hot Springs National Park",
+    "parkCode": "hosp",
+    "states": "AR",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C0D8DFDD-F151-C5B0-3004B0088C98BA5A.jpg",
+      "altText": "A pink sky above gentle white buildings"
+    }
+  },
+  {
+    "fullName": "Hovenweep National Monument",
+    "parkCode": "hove",
+    "states": "CO,UT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7EFD89-1DD8-B71B-0B19BADA80708922.jpg",
+      "altText": "a stone structure at night with the Milky Way arcing overhead"
+    }
+  },
+  {
+    "fullName": "Hubbell Trading Post National Historic Site",
+    "parkCode": "hutr",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7C91D7-1DD8-B71B-0B54C08912784B29.jpg",
+      "altText": "Spring lambs with their Navajo-Churro ewe."
+    }
+  },
+  {
+    "fullName": "Ice Age Floods National Geologic Trail",
+    "parkCode": "iafl",
+    "states": "WA,OR,ID,MT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/A003C5CE-E0EB-2AC6-FC8EDC134B1DFD19.jpg",
+      "altText": "Green Monarch Ridge by Lake Pend Oreille ID"
+    }
+  },
+  {
+    "fullName": "Ice Age National Scenic Trail",
+    "parkCode": "iatr",
+    "states": "WI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/E538F76C-CB06-6007-549113D6D1A7E4D5.jpg",
+      "altText": "Photograph of a large glacial erratic boulder in autumn with trees covered in colorful foliage and f"
+    }
+  },
+  {
+    "fullName": "Independence National Historical Park",
+    "parkCode": "inde",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/7AFE0115-FFFB-4779-4787C9D078489E1C.jpg",
+      "altText": "Color photo of the Liberty Bell with Independence Hall in the background."
+    }
+  },
+  {
+    "fullName": "Indiana Dunes National Park",
+    "parkCode": "indu",
+    "states": "IN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/9253EDFB-AAFD-E111-B985CD2747F5C48F.jpg",
+      "altText": "Michigan Lake beach with green grassy dunes in the background, under a blue sky."
+    }
+  },
+  {
+    "fullName": "Iñupiat Heritage Center",
+    "parkCode": "inup",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8130DF-1DD8-B71B-0B99B1F06EB07E76.jpg",
+      "altText": "Museum exhibit case with fur parkas and boots"
+    }
+  },
+  {
+    "fullName": "Isle Royale National Park",
+    "parkCode": "isro",
+    "states": "MI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/6059CAD8-02E8-2E00-2922DF84800167E0.jpg",
+      "altText": "View from above the trees looking down at Duncan Bay Narrows, trees, Lake Superior, and Canada."
+    }
+  },
+  {
+    "fullName": "James A Garfield National Historic Site",
+    "parkCode": "jaga",
+    "states": "OH",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8438A8-1DD8-B71B-0B1FAF95F1FC35BF.jpg",
+      "altText": "Front porch of Garfield home showing red front door"
+    }
+  },
+  {
+    "fullName": "Jean Lafitte National Historical Park and Preserve",
+    "parkCode": "jela",
+    "states": "LA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C845D16-1DD8-B71B-0B04181AABF4F0C1.jpg",
+      "altText": "Spanish moss hangs from live oak tree"
+    }
+  },
+  {
+    "fullName": "Jewel Cave National Monument",
+    "parkCode": "jeca",
+    "states": "SD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C6DE6447-A12D-692B-419DBA224FA0D35B.jpg",
+      "altText": "The target room inside Jewel Cave."
+    }
+  },
+  {
+    "fullName": "Jimmy Carter National Historical Park",
+    "parkCode": "jica",
+    "states": "GA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C87D454-1DD8-B71B-0B1CF7672AB5806C.jpg",
+      "altText": "A picture of the front of the home Jimmy Carter lived in as a young boy."
+    }
+  },
+  {
+    "fullName": "John Day Fossil Beds National Monument",
+    "parkCode": "joda",
+    "states": "OR",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/65131BFA-AC34-079D-7FD7AF99F152FFED.jpg",
+      "altText": "Sheep Rock"
+    }
+  },
+  {
+    "fullName": "John Fitzgerald Kennedy National Historic Site",
+    "parkCode": "jofi",
+    "states": "MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C820F63-1DD8-B71B-0BA806C2D92161BF.jpg",
+      "altText": "John Fitzgerald Kennedy National Historic Site"
+    }
+  },
+  {
+    "fullName": "John Muir National Historic Site",
+    "parkCode": "jomu",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C79DF6A-1DD8-B71B-0B64749528CB4952.jpg",
+      "altText": "John Muir Home at the John Muir National Historic Site"
+    }
+  },
+  {
+    "fullName": "Johnstown Flood National Memorial",
+    "parkCode": "jofl",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/2A4B8778-986F-86FB-4B696139FFE5B131.jpg",
+      "altText": "Barn and spring house"
+    }
+  },
+  {
+    "fullName": "Joshua Tree National Park",
+    "parkCode": "jotr",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/306D0D93-9CCA-76E1-AD48268F8D7A7E3E.jpg",
+      "altText": "The sky turns hues of pink and purple over a field of Joshua trees."
+    }
+  },
+  {
+    "fullName": "Juan Bautista de Anza National Historic Trail",
+    "parkCode": "juba",
+    "states": "AZ,CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/6C3282C7-B83C-1360-AB17FCF75CC68F02.jpg",
+      "altText": "Two people and a dog walk down a dirt trail that cuts into a grassy hill with large trees"
+    }
+  },
+  {
+    "fullName": "Kalaupapa National Historical Park",
+    "parkCode": "kala",
+    "states": "HI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C79B6CD-1DD8-B71B-0BB2B4265DD8C023.jpg",
+      "altText": "View of Kalaupapa Peninsula from Overlook"
+    }
+  },
+  {
+    "fullName": "Kaloko-Honokōhau National Historical Park",
+    "parkCode": "kaho",
+    "states": "HI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C821C0B-1DD8-B71B-0B75B0451911CCAA.jpg",
+      "altText": "The rehabilitation of Kaloko fishpond started in 1998 and still continues today...."
+    }
+  },
+  {
+    "fullName": "Katahdin Woods and Waters National Monument",
+    "parkCode": "kaww",
+    "states": "ME",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/706CD3A6-9835-C974-F5C1ECDF3354177B.jpg",
+      "altText": "Mirror reflection of Lunksoos Mountain and trees within the water of the river."
+    }
+  },
+  {
+    "fullName": "Katmai National Park & Preserve",
+    "parkCode": "katm",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A0FDB-1DD8-B71B-0B8933ACA92FE6B3.jpg",
+      "altText": "salmon jumping at waterfall"
+    }
+  },
+  {
+    "fullName": "Kenai Fjords National Park",
+    "parkCode": "kefj",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C798EAB-1DD8-B71B-0BC4BEFB197F2C90.jpg",
+      "altText": "aerial image of Bear Glacier"
+    }
+  },
+  {
+    "fullName": "Kenilworth Park & Aquatic Gardens",
+    "parkCode": "keaq",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C819F7C-1DD8-B71B-0BE9077BC0E39492.jpg",
+      "altText": "Pink lotus flower blooms in a pond."
+    }
+  },
+  {
+    "fullName": "Kennesaw Mountain National Battlefield Park",
+    "parkCode": "kemo",
+    "states": "GA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/D087031F-1DD8-B71B-0BB9898C84464224.jpg",
+      "altText": "Cannon with front field and Visitor Center in background."
+    }
+  },
+  {
+    "fullName": "Keweenaw National Historical Park",
+    "parkCode": "kewe",
+    "states": "MI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7D1933-1DD8-B71B-0BDEE535F0C69BBC.jpg",
+      "altText": "Two story stone and brick building. The American flag flies in front of a blue sky background"
+    }
+  },
+  {
+    "fullName": "Kings Mountain National Military Park",
+    "parkCode": "kimo",
+    "states": "SC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8687F0-1DD8-B71B-0B6A5B7B87219459.jpg",
+      "altText": "An oval gravestone for Maj Patrick Ferguson is in front of his stone covered grave."
+    }
+  },
+  {
+    "fullName": "Klondike Gold Rush - Seattle Unit National Historical Park",
+    "parkCode": "klse",
+    "states": "WA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/39704550-FCDA-D336-B4FBEE35BD2793C2.jpg",
+      "altText": "Large brick wall with glass windows."
+    }
+  },
+  {
+    "fullName": "Klondike Gold Rush National Historical Park",
+    "parkCode": "klgo",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7BBEAE-1DD8-B71B-0B469DDC9151A4CA.jpg",
+      "altText": "Aerial view of town in a valley with cruise ships in port"
+    }
+  },
+  {
+    "fullName": "Knife River Indian Villages National Historic Site",
+    "parkCode": "knri",
+    "states": "ND",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C812613-1DD8-B71B-0B29B74AAFA56DE7.jpg",
+      "altText": "Summer view of Earthlodge"
+    }
+  },
+  {
+    "fullName": "Kobuk Valley National Park",
+    "parkCode": "kova",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A1214-1DD8-B71B-0B00D823BD9BF4CF.jpg",
+      "altText": "sun setting on sand dunes"
+    }
+  },
+  {
+    "fullName": "Korean War Veterans Memorial",
+    "parkCode": "kowa",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C822E13-1DD8-B71B-0B426CD34F183D32.jpg",
+      "altText": "Dawn Picture of the statues within the memorial"
+    }
+  },
+  {
+    "fullName": "Lake Clark National Park & Preserve",
+    "parkCode": "lacl",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A9F9E-1DD8-B71B-0B6CEC8EF3F377DA.jpg",
+      "altText": "Photo of blue sky with fluffy white clouds reflect in calm lake with mountains in the background."
+    }
+  },
+  {
+    "fullName": "Lake Mead National Recreation Area",
+    "parkCode": "lake",
+    "states": "AZ,NV",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C79D292-1DD8-B71B-0B9A850B0D5AAAFC.jpg",
+      "altText": "sun rising on Black Canyon"
+    }
+  },
+  {
+    "fullName": "Lake Meredith National Recreation Area",
+    "parkCode": "lamr",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7EF8FA-1DD8-B71B-0B0A1337DFDA3A87.jpg",
+      "altText": "A boat travels across Lake Meredith on a sunny day.  The lake is light blue."
+    }
+  },
+  {
+    "fullName": "Lake Roosevelt National Recreation Area",
+    "parkCode": "laro",
+    "states": "WA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C878C15-1DD8-B71B-0B3F6762ED559E9B.jpg",
+      "altText": "Looking down Lake Roosevelt with clear skies and treed shorelines."
+    }
+  },
+  {
+    "fullName": "Lassen Volcanic National Park",
+    "parkCode": "lavo",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C873811-1DD8-B71B-0B9C62ED8E12E7B5.jpg",
+      "altText": "A frozen lake below snow-covered trees and peak"
+    }
+  },
+  {
+    "fullName": "Lava Beds National Monument",
+    "parkCode": "labe",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C820779-1DD8-B71B-0B20C2B5154C940A.jpg",
+      "altText": "Sunrise at Lava Beds"
+    }
+  },
+  {
+    "fullName": "LBJ Memorial Grove on the Potomac",
+    "parkCode": "lyba",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C827D24-1DD8-B71B-0B230D50B1C6F96F.jpg",
+      "altText": "The Memorial"
+    }
+  },
+  {
+    "fullName": "Lewis & Clark National Historic Trail",
+    "parkCode": "lecl",
+    "states": "IA,ID,IL,IN,KS,KY,MO,MT,NE,ND,OH,OR,PA,SD,WA,WV",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/FA29AF56-DF2B-8692-40F8422E38FB9093.jpg",
+      "altText": "Small waterfall with brown rocks and green moss"
+    }
+  },
+  {
+    "fullName": "Lewis and Clark National Historical Park",
+    "parkCode": "lewi",
+    "states": "OR,WA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/54612AA3-0734-3D97-137865DFB9918D11.jpg",
+      "altText": "A fifty foot square wooden fort surrounded by tall trees in a forest."
+    }
+  },
+  {
+    "fullName": "Lincoln Boyhood National Memorial",
+    "parkCode": "libo",
+    "states": "IN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/04C50A1E-1DD8-B71B-0B89814283E6E886.jpg",
+      "altText": "Cabin and smokehouse in the fall"
+    }
+  },
+  {
+    "fullName": "Lincoln Home National Historic Site",
+    "parkCode": "liho",
+    "states": "IL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/519B9677-A5DA-1824-C11B59B1C565188B.jpg",
+      "altText": "2 story tan house with green shutters. Red, white, and blue striped bunting draped below its fence"
+    }
+  },
+  {
+    "fullName": "Lincoln Memorial",
+    "parkCode": "linc",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C816F5A-1DD8-B71B-0B6D38F175B60A23.jpg",
+      "altText": "Lincoln Memorial at Dusk"
+    }
+  },
+  {
+    "fullName": "Little Bighorn Battlefield National Monument",
+    "parkCode": "libi",
+    "states": "MT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C847035-1DD8-B71B-0B387957A7924FFA.jpg",
+      "altText": "The sun sets behind the Indian Memorial."
+    }
+  },
+  {
+    "fullName": "Little River Canyon National Preserve",
+    "parkCode": "liri",
+    "states": "AL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C870F95-1DD8-B71B-0B1A89976F5B3292.jpg",
+      "altText": "Fall Season in the Canyon"
+    }
+  },
+  {
+    "fullName": "Little Rock Central High School National Historic Site",
+    "parkCode": "chsc",
+    "states": "AR",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/53095121-0127-7E62-B983B9E8D77E7ECF.jpg",
+      "altText": "The front facade of Little Rock Central High School"
+    }
+  },
+  {
+    "fullName": "Longfellow House Washington's Headquarters National Historic Site",
+    "parkCode": "long",
+    "states": "MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3F81541A-CC01-7548-8F7723937ECD58D8.jpg",
+      "altText": "Yellow three-story mansion with symmetrical facade. Steps and large lawn in foreground. Framed by br"
+    }
+  },
+  {
+    "fullName": "Lowell National Historical Park",
+    "parkCode": "lowe",
+    "states": "MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/540E0A41-958B-903A-9034B50FD25C4D69.jpg",
+      "altText": "5 story brick factories with a clocktower surrounding a central courtyard"
+    }
+  },
+  {
+    "fullName": "Lower Delaware National Wild and Scenic River",
+    "parkCode": "lode",
+    "states": "PA,NJ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A403C-1DD8-B71B-0B48D4D57314EA3D.jpg",
+      "altText": "A rural boat lock with a gate"
+    }
+  },
+  {
+    "fullName": "Lower East Side Tenement Museum National Historic Site",
+    "parkCode": "loea",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C81BB61B-B296-C003-0E6B615B84AF38DB.jpg",
+      "altText": "A room with wooden floors, blue wall paper, two windows, some furniture and a dress hanging."
+    }
+  },
+  {
+    "fullName": "Lyndon B Johnson National Historical Park",
+    "parkCode": "lyjo",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/FE93563C-B920-FCC4-73E75A4CE886A72F.jpg",
+      "altText": "President and Mrs. Johnson stand with their small, white dog in front of the Texas White House."
+    }
+  },
+  {
+    "fullName": "Maggie L Walker National Historic Site",
+    "parkCode": "mawa",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/E74592AC-CD3E-4D60-942681DBCAC34FCD.jpg",
+      "altText": "Maggie L. Walker's home and adjacent buildings"
+    }
+  },
+  {
+    "fullName": "Maine Acadian Culture",
+    "parkCode": "maac",
+    "states": "ME",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7B3A97-1DD8-B71B-0BCDEEBD8170AEE0.jpg",
+      "altText": "Scenic view of Acadian Village"
+    }
+  },
+  {
+    "fullName": "Mammoth Cave National Park",
+    "parkCode": "maca",
+    "states": "KY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/95EAA431-F26B-66EB-E9E6B108F47F70B0.jpg",
+      "altText": "A cascade of water pours over a rock ledge. Green foliage is in the background."
+    }
+  },
+  {
+    "fullName": "Manassas National Battlefield Park",
+    "parkCode": "mana",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C85AA4D-1DD8-B71B-0B4C0BA37FFF3157.jpg",
+      "altText": "Red sandstone obelisk surrounded by post and rail fence."
+    }
+  },
+  {
+    "fullName": "Manhattan Project National Historical Park",
+    "parkCode": "mapr",
+    "states": "NM,WA,TN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/E310F561-EC32-2AE8-9AE265815F917C5C.jpg",
+      "altText": "Historic photo of two men standing next to a mangled piece of metal equipment in the desert."
+    }
+  },
+  {
+    "fullName": "Manzanar National Historic Site",
+    "parkCode": "manz",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C876C2F-1DD8-B71B-0B0F7AB75DF47C6F.jpg",
+      "altText": "People walk to barracks framed by mountain peaks."
+    }
+  },
+  {
+    "fullName": "Marsh - Billings - Rockefeller National Historical Park",
+    "parkCode": "mabi",
+    "states": "VT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/BB557A2A-EB34-ED7F-78515D719FD9A430.jpg",
+      "altText": "large red brick mansion with white lattice porch and lush green lawn"
+    }
+  },
+  {
+    "fullName": "Martin Luther King, Jr. Memorial",
+    "parkCode": "mlkm",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C817680-1DD8-B71B-0B2377795A1029FE.jpg",
+      "altText": "Statue of Martin Luther King, Jr."
+    }
+  },
+  {
+    "fullName": "Martin Luther King, Jr. National Historical Park",
+    "parkCode": "malu",
+    "states": "GA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/5DC14EA9-047B-156E-0DEAFE4188EAD890.jpg",
+      "altText": "Visitor center and the \"I Have a Dream\" Internrational World Peace Rose"
+    }
+  },
+  {
+    "fullName": "Martin Van Buren National Historic Site",
+    "parkCode": "mava",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/62DC5B9E-BE8C-E397-36BEC4EBBC266D2A.jpg",
+      "altText": "Lindenwald, a yellow, 3 story mansion, is surrounded by trees."
+    }
+  },
+  {
+    "fullName": "Mary McLeod Bethune Council House National Historic Site",
+    "parkCode": "mamc",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C83EDB8-1DD8-B71B-0B904FDCAD5D7937.jpg",
+      "altText": "MAMC"
+    }
+  },
+  {
+    "fullName": "Medgar and Myrlie Evers Home National Monument",
+    "parkCode": "memy",
+    "states": "MS",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/A9FDD030-BEAF-C4EE-7688C55E2902CB09.jpg",
+      "altText": "A small ranch-style home, aqua in color with light brown brick accents, sits on a shaded lot."
+    }
+  },
+  {
+    "fullName": "Mesa Verde National Park",
+    "parkCode": "meve",
+    "states": "CO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7C0089-1DD8-B71B-0BC397BA671C0616.jpg",
+      "altText": "Large cliff dwelling in cliff alcove"
+    }
+  },
+  {
+    "fullName": "Mill Springs Battlefield National Monument",
+    "parkCode": "misp",
+    "states": "KY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/145ADAC5-07E3-1AA1-D902CCF0A4219664.jpg",
+      "altText": "A orange sunset over the white granite headstones in the national cemetery with silhouetted cannon."
+    }
+  },
+  {
+    "fullName": "Minidoka National Historic Site",
+    "parkCode": "miin",
+    "states": "ID,WA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C874621-1DD8-B71B-0B29C1E739E9977F.jpg",
+      "altText": "Origami cranes twirl on carousel"
+    }
+  },
+  {
+    "fullName": "Minute Man National Historical Park",
+    "parkCode": "mima",
+    "states": "MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/E5B10817-0ED5-D9EE-108A8418774DBE7A.jpg",
+      "altText": "Located on Battle Road, the Smith House was home of Captain John Smith of the Lincoln Militia."
+    }
+  },
+  {
+    "fullName": "Minuteman Missile National Historic Site",
+    "parkCode": "mimi",
+    "states": "SD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7BEAAF-1DD8-B71B-0BBB2CECC1123926.jpg",
+      "altText": "Glass structure over the silo allows visitors to look down at the missile"
+    }
+  },
+  {
+    "fullName": "Mississippi National River & Recreation Area",
+    "parkCode": "miss",
+    "states": "MN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7CDBEB-1DD8-B71B-0BA93C0F0BE1C5FB.jpg",
+      "altText": "Large canoes and crews paddle down the river amidst autumnal color."
+    }
+  },
+  {
+    "fullName": "Missouri National Recreational River",
+    "parkCode": "mnrr",
+    "states": "SD,NE",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8375D2-1DD8-B71B-0B28DF0D3992CFAE.jpg",
+      "altText": "Aerial view of the Missouri River and surrounding landscape."
+    }
+  },
+  {
+    "fullName": "Mojave National Preserve",
+    "parkCode": "moja",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/A2751C78-ACB9-A19B-D7946503414E34AE.jpg",
+      "altText": "Kelso Dunes with rays of light coming through the clouds. Mountains in the background.."
+    }
+  },
+  {
+    "fullName": "Monocacy National Battlefield",
+    "parkCode": "mono",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C80BC8B-1DD8-B71B-0B7C449D99556A3F.jpg",
+      "altText": "Federal style house with trees behind it during the fall season."
+    }
+  },
+  {
+    "fullName": "Montezuma Castle National Monument",
+    "parkCode": "moca",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7D225B-1DD8-B71B-0B0DBFDBFAA82723.jpg",
+      "altText": "A 5-story masonry dwelling sits in a cliff alcove."
+    }
+  },
+  {
+    "fullName": "Moores Creek National Battlefield",
+    "parkCode": "mocr",
+    "states": "NC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/914A2696-A4AE-2051-F206B93B3BE54A8B.jpg",
+      "altText": "Cannon on a hill on a winter day. American flag to the left of the cannon"
+    }
+  },
+  {
+    "fullName": "Mormon Pioneer National Historic Trail",
+    "parkCode": "mopi",
+    "states": "IL,IA,NE,UT,WY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7DB6E0-1DD8-B71B-0BF585CE20DBD781.jpg",
+      "altText": "Red cliffs line a highway as seen from a high point with grass in the foreground."
+    }
+  },
+  {
+    "fullName": "Morristown National Historical Park",
+    "parkCode": "morr",
+    "states": "NJ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C804A08-1DD8-B71B-0B73C1F0A0ACAD7A.jpg",
+      "altText": "The Wick House surrounded by colorful fall leaves"
+    }
+  },
+  {
+    "fullName": "Mount Rainier National Park",
+    "parkCode": "mora",
+    "states": "WA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/49F34094-B893-7DD6-5AE0F0220724B0EF.jpg",
+      "altText": "A purple and pink streaked sky over a mountain peak and forested valley."
+    }
+  },
+  {
+    "fullName": "Mount Rushmore National Memorial",
+    "parkCode": "moru",
+    "states": "SD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/B8BC21F3-9292-822E-797779C6FA2B9497.jpg",
+      "altText": "Photo of Mount Rushmore under a bright blue sky with puffy clouds floating over."
+    }
+  },
+  {
+    "fullName": "Muir Woods National Monument",
+    "parkCode": "muwo",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/B8948A3E-F88D-F366-93C97C2CE440F386.jpg",
+      "altText": "Wooden sign and entrance to Muir Woods National Monument"
+    }
+  },
+  {
+    "fullName": "Natchez National Historical Park",
+    "parkCode": "natc",
+    "states": "MS",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/BC2BF996-9A1D-637F-B279C39E2232C4C4.jpg",
+      "altText": "Two story brick mansion with columns"
+    }
+  },
+  {
+    "fullName": "Natchez Trace National Scenic Trail",
+    "parkCode": "natt",
+    "states": "AL,MS,TN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C843CE5-1DD8-B71B-0BAFBFE2E37ADA31.jpg",
+      "altText": "Potkopinu Section of the Natchez Trace National Scenic Trail"
+    }
+  },
+  {
+    "fullName": "Natchez Trace Parkway",
+    "parkCode": "natr",
+    "states": "AL,MS,TN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C80016C-1DD8-B71B-0B91B2FA75DF0C02.jpg",
+      "altText": "A slightly curvy section of the Natchez Trace Parkway in Early Fall"
+    }
+  },
+  {
+    "fullName": "National Capital Parks-East",
+    "parkCode": "nace",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C82B782-1DD8-B71B-0B692035768B7064.jpg",
+      "altText": "The red barns and outbuildings at Oxon Hill Farm"
+    }
+  },
+  {
+    "fullName": "National Mall and Memorial Parks",
+    "parkCode": "nama",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C821F64-1DD8-B71B-0B7C29BA3E4F549E.jpg",
+      "altText": "Aerial of the west side of National Mall and Memorial Parks"
+    }
+  },
+  {
+    "fullName": "National Park of American Samoa",
+    "parkCode": "npsa",
+    "states": "AS",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C84F643-1DD8-B71B-0BC6F3EA2E1F58AB.jpg",
+      "altText": "Tuafanua Trail"
+    }
+  },
+  {
+    "fullName": "National Parks of New York Harbor",
+    "parkCode": "npnh",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C851C36-1DD8-B71B-0B0CDC66CCAD1F18.jpg",
+      "altText": "Manhattan skyline as seen from Governors Island National Monument"
+    }
+  },
+  {
+    "fullName": "Natural Bridges National Monument",
+    "parkCode": "nabr",
+    "states": "UT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7F0B3F-1DD8-B71B-0B8A0FBA0B28DD66.jpg",
+      "altText": "a natural bridge at night with the Milky Way arcing overhead"
+    }
+  },
+  {
+    "fullName": "Navajo National Monument",
+    "parkCode": "nava",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C821A96-1DD8-B71B-0B6A3DE748A3EA81.jpg",
+      "altText": "view from inside the Betatakin Cliff Dwelling looking out."
+    }
+  },
+  {
+    "fullName": "New Bedford Whaling National Historical Park",
+    "parkCode": "nebe",
+    "states": "MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7B58A6-1DD8-B71B-0BECE805AD9FBFDA.png",
+      "altText": "New Bedford Whaling National Historical Park Visitor Center on a bright fall day."
+    }
+  },
+  {
+    "fullName": "New England National Scenic Trail",
+    "parkCode": "neen",
+    "states": "MA,CT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/498B6E55-9C9A-07E3-AB0896A77C5485DD.jpg",
+      "altText": "Hiker in trees at overlook with sunset in background"
+    }
+  },
+  {
+    "fullName": "New Jersey Pinelands National Reserve",
+    "parkCode": "pine",
+    "states": "NJ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/6A36EF6A-1DD8-B71B-0B6EF527BB26F6F0.jpg",
+      "altText": "Tall pine trees surround a thin unpaved trail"
+    }
+  },
+  {
+    "fullName": "New Orleans Jazz National Historical Park",
+    "parkCode": "jazz",
+    "states": "LA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C87C505-1DD8-B71B-0BE34A8A361477FB.jpg",
+      "altText": "A young brass band musician plays a trumpet"
+    }
+  },
+  {
+    "fullName": "New Philadelphia National Historic Site",
+    "parkCode": "neph",
+    "states": "IL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3ABBD713-BFB0-E207-3F13D883C8BCF18F.jpg",
+      "altText": "A grassy field surrounded by forest under a sunny sky with large white clouds."
+    }
+  },
+  {
+    "fullName": "New River Gorge National Park & Preserve",
+    "parkCode": "neri",
+    "states": "WV",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7E8C70-1DD8-B71B-0B00C7B2373E386E.jpg",
+      "altText": "sun rising over the New River Gorge"
+    }
+  },
+  {
+    "fullName": "Nez Perce National Historical Park",
+    "parkCode": "nepe",
+    "states": "ID,MT,OR,WA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C87B14F-1DD8-B71B-0B562F4DFC141863.jpg",
+      "altText": "Colorful painted tipi on green lawn"
+    }
+  },
+  {
+    "fullName": "Nicodemus National Historic Site",
+    "parkCode": "nico",
+    "states": "KS",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C71D6C09-9F6D-9027-52520EDA8DBABF14.jpg",
+      "altText": "Frame one story schoolhouse with most of white paint worn off to show gray."
+    }
+  },
+  {
+    "fullName": "Ninety Six National Historic Site",
+    "parkCode": "nisi",
+    "states": "SC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C79EFE2-1DD8-B71B-0BE1C97AF62D94F2.jpg",
+      "altText": "A cannon is in the left foreground with the Maham rifle tower in the distance."
+    }
+  },
+  {
+    "fullName": "Niobrara National Scenic River",
+    "parkCode": "niob",
+    "states": "NE",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7C95AD-1DD8-B71B-0B9C962E8BA62E89.jpg",
+      "altText": "A beautiful, if short, waterfall empties into the side of the Niobrara NSR."
+    }
+  },
+  {
+    "fullName": "Noatak National Preserve",
+    "parkCode": "noat",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C616CB02-D421-3562-CEDF608D9E401930.jpg",
+      "altText": "Noatak River cuts through a green tundra landscape with distant mountains."
+    }
+  },
+  {
+    "fullName": "North Cascades National Park",
+    "parkCode": "noca",
+    "states": "WA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A599D-1DD8-B71B-0BBDC12BEC5107B5.jpg",
+      "altText": "boats on the water with mountains and trees surrounding"
+    }
+  },
+  {
+    "fullName": "North Country National Scenic Trail",
+    "parkCode": "noco",
+    "states": "MI,MN,ND,NY,OH,PA,VT,WI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C834C15-1DD8-B71B-0BDB0B3A229F398B.jpg",
+      "altText": "Hiking on trail"
+    }
+  },
+  {
+    "fullName": "Obed Wild & Scenic River",
+    "parkCode": "obed",
+    "states": "TN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C792DFB-1DD8-B71B-0B5E8EB41685A5BB.jpg",
+      "altText": "Obed in Fall"
+    }
+  },
+  {
+    "fullName": "Ocmulgee Mounds National Historical Park",
+    "parkCode": "ocmu",
+    "states": "GA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C797774-1DD8-B71B-0B2DA9E973C5AD89.jpg",
+      "altText": "mounds"
+    }
+  },
+  {
+    "fullName": "Oklahoma City National Memorial",
+    "parkCode": "okci",
+    "states": "OK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C85F67B-1DD8-B71B-0B799239B62FEB48.jpg",
+      "altText": "Tiles with hand prints and chalkboards set into the ground for children."
+    }
+  },
+  {
+    "fullName": "Old Spanish National Historic Trail",
+    "parkCode": "olsp",
+    "states": "AZ,CA,CO,NV,NM,UT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7EA8D2-1DD8-B71B-0B9050CB4DDFC559.jpg",
+      "altText": "crumbling adobe structure with blue sky"
+    }
+  },
+  {
+    "fullName": "Olympic National Park",
+    "parkCode": "olym",
+    "states": "WA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7B1DB4-1DD8-B71B-0B9DFEFDD398DB71.jpg",
+      "altText": "A herd of elk crossing a river."
+    }
+  },
+  {
+    "fullName": "Oregon Caves National Monument & Preserve",
+    "parkCode": "orca",
+    "states": "OR",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8507A5-1DD8-B71B-0B921718CA5479A5.jpg",
+      "altText": "Miller's Chapel at Oregon Caves"
+    }
+  },
+  {
+    "fullName": "Oregon National Historic Trail",
+    "parkCode": "oreg",
+    "states": "ID,KS,MO,NE,OR,WA,WY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7D9108-1DD8-B71B-0BE55F68DE91648F.jpg",
+      "altText": "A wagon swale is cut deep into limestone rock with trees in background."
+    }
+  },
+  {
+    "fullName": "Organ Pipe Cactus National Monument",
+    "parkCode": "orpi",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/A1910F3F-AC95-B7D0-2B1171BAB2F34B89.jpg",
+      "altText": "Organ pipe cactus and mountains at sunset"
+    }
+  },
+  {
+    "fullName": "Overmountain Victory National Historic Trail",
+    "parkCode": "ovvi",
+    "states": "NC,SC,TN,VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/FC4E6536-9169-719C-95D5D511D4B94145.jpg",
+      "altText": "A dirt trail winds along in a forest."
+    }
+  },
+  {
+    "fullName": "Oxon Cove Park & Oxon Hill Farm",
+    "parkCode": "oxhi",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/34B552FE-055B-F687-3DBC825302910582.jpg",
+      "altText": "Two brown cows graze in a field"
+    }
+  },
+  {
+    "fullName": "Ozark National Scenic Riverways",
+    "parkCode": "ozar",
+    "states": "MO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/44F55489-0B88-97AB-548A8C5373A6E8D1.jpg",
+      "altText": "Sunset picture with high vantage point overlooking river with fall colors and sun setting in distanc"
+    }
+  },
+  {
+    "fullName": "Padre Island National Seashore",
+    "parkCode": "pais",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/F771AB23-E1E9-0B08-C7765B725C3EB41F.jpg",
+      "altText": "Yellow flowers bloom in the dunes along Malaquite Beach."
+    }
+  },
+  {
+    "fullName": "Palo Alto Battlefield National Historical Park",
+    "parkCode": "paal",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C791D5F-1DD8-B71B-0B9B92E13DDE689F.jpg",
+      "altText": "Shaded structure overlooking the battlefield"
+    }
+  },
+  {
+    "fullName": "Paterson Great Falls National Historical Park",
+    "parkCode": "pagr",
+    "states": "NJ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3F720292-1DD8-B71B-0BBF0A529555D377.jpg",
+      "altText": "Wind blows US Flag and surrounding area"
+    }
+  },
+  {
+    "fullName": "Pea Ridge National Military Park",
+    "parkCode": "peri",
+    "states": "AR",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7E6346-1DD8-B71B-0B7F2E71DEF77DE8.jpg",
+      "altText": "A reconstructed Elkhorn Tavern."
+    }
+  },
+  {
+    "fullName": "Pearl Harbor National Memorial",
+    "parkCode": "valr",
+    "states": "HI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/6E5D5C03-C701-0F6B-FB7BF0935A817ED0.jpg",
+      "altText": "An evening photo of the Pearl Harbor Visitor Center Complex looking towards the museums."
+    }
+  },
+  {
+    "fullName": "Pecos National Historical Park",
+    "parkCode": "peco",
+    "states": "NM",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/0457F740-1DD8-B71B-0B9462AD0E72A834.jpg",
+      "altText": "Church and preservation workers in distance, kiva in foreground.jpg (943 kb)"
+    }
+  },
+  {
+    "fullName": "Pennsylvania Avenue",
+    "parkCode": "paav",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C85E1B9-1DD8-B71B-0B20BF6EC58D31AF.jpg",
+      "altText": "Motorcycles pass by a crowd in a parade."
+    }
+  },
+  {
+    "fullName": "Perry's Victory & International Peace Memorial",
+    "parkCode": "pevi",
+    "states": "OH",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/841EBF31-FF88-8F95-A51D7A1594AAF65C.jpg",
+      "altText": "9-3'x5' international flags line sidewalk that leads to a white building with green roof. Tall stone"
+    }
+  },
+  {
+    "fullName": "Petersburg National Battlefield",
+    "parkCode": "pete",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C857F09-1DD8-B71B-0B54C972E552D1CB.jpg",
+      "altText": "Plantation home prior to the War. U.S. Quartermaster Headquarters during the Siege."
+    }
+  },
+  {
+    "fullName": "Petrified Forest National Park",
+    "parkCode": "pefo",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7D8213-1DD8-B71B-0BE4A3B9394FD89A.jpg",
+      "altText": "Sunlit Painted Desert hills of the Petrified Forest National Wilderness Area"
+    }
+  },
+  {
+    "fullName": "Petroglyph National Monument",
+    "parkCode": "petr",
+    "states": "NM",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/2425221F-94B6-50F2-382B3DB62384FB07.jpg",
+      "altText": "Petroglyphs on dark boulders with a cloudy sky."
+    }
+  },
+  {
+    "fullName": "Pictured Rocks National Lakeshore",
+    "parkCode": "piro",
+    "states": "MI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C834062-1DD8-B71B-0B5E6CE1052B344E.jpg",
+      "altText": "Au Sable Lighthouse and light keeper's quarters"
+    }
+  },
+  {
+    "fullName": "Pinnacles National Park",
+    "parkCode": "pinn",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C86A8CB-1DD8-B71B-0BAE8F7141CCBB1B.jpg",
+      "altText": "Boulders in the Balconies Cave."
+    }
+  },
+  {
+    "fullName": "Pipe Spring National Monument",
+    "parkCode": "pisp",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C865B7C-1DD8-B71B-0BC81C6B55603669.jpg",
+      "altText": "A glittering sky of stars glows above a historic covered wagon."
+    }
+  },
+  {
+    "fullName": "Pipestone National Monument",
+    "parkCode": "pipe",
+    "states": "MN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/DA3FB8BE-E6ED-14AC-0D31ABF5E44A43F8.jpg",
+      "altText": "Pink wall of rock next to path and grass"
+    }
+  },
+  {
+    "fullName": "Piscataway Park",
+    "parkCode": "pisc",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7E0595-1DD8-B71B-0BE07FAAF6BD61E8.jpg",
+      "altText": "Building at National Colonial Farm at Piscataway Park"
+    }
+  },
+  {
+    "fullName": "Point Reyes National Seashore",
+    "parkCode": "pore",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/4A1A8835-9A7B-6E5C-B6CE0D4BDCFDB2CB.jpg",
+      "altText": "Waves wash in from the left onto a long, straight stretch of undeveloped, low-lying coastline."
+    }
+  },
+  {
+    "fullName": "Pony Express National Historic Trail",
+    "parkCode": "poex",
+    "states": "CA,CO,KS,MO,NE,NV,UT,WY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7DBDE9-1DD8-B71B-0B1F370DE4F54140.jpg",
+      "altText": "A rider in a red vest on a horse in a grassy patch surrounded by sagebrush with clouds in the sky."
+    }
+  },
+  {
+    "fullName": "Port Chicago Naval Magazine National Memorial",
+    "parkCode": "poch",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A0454-1DD8-B71B-0B7C42BC0D75A36F.jpg",
+      "altText": "Port Chicago Memorial"
+    }
+  },
+  {
+    "fullName": "Potomac Heritage National Scenic Trail",
+    "parkCode": "pohe",
+    "states": "DC,MD,PA,VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/57DDD525-C26A-90FA-5D5DC9A304EE0246.jpg",
+      "altText": "sunset over a river"
+    }
+  },
+  {
+    "fullName": "Poverty Point National Monument",
+    "parkCode": "popo",
+    "states": "LA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/093C6AE3-1DD8-B71B-0BF4825496F87868.jpg",
+      "altText": "A grassy green mound."
+    }
+  },
+  {
+    "fullName": "President William Jefferson Clinton Birthplace Home National Historic Site",
+    "parkCode": "wicl",
+    "states": "AR",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C80B417-1DD8-B71B-0B6F982FAD0B0CE9.jpg",
+      "altText": "The birthplace home of President Bill Clinton illuminated at dusk."
+    }
+  },
+  {
+    "fullName": "Presidio of San Francisco",
+    "parkCode": "prsf",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C80243D-1DD8-B71B-0B485E9DA8C86784.jpg",
+      "altText": "Rows of grave markers in the green grass of the cemetery as light shafts through misty trees."
+    }
+  },
+  {
+    "fullName": "Prince William Forest Park",
+    "parkCode": "prwi",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C82646F-1DD8-B71B-0BBBC3BB74314991.jpg",
+      "altText": "Carter Pond on a sunny day in summer"
+    }
+  },
+  {
+    "fullName": "Puʻuhonua o Hōnaunau National Historical Park",
+    "parkCode": "puho",
+    "states": "HI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/B9D5C440-9B40-6C05-5FCF4EFB33F1FD16.jpg",
+      "altText": "A stone papamū (Kōnane playing surface) with Hale o Keawe and Hōnaunau Bay in the background."
+    }
+  },
+  {
+    "fullName": "Puʻukoholā Heiau National Historic Site",
+    "parkCode": "puhe",
+    "states": "HI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/46C8006D-B528-C45C-00A2A572EF94584A.jpg",
+      "altText": "Painting of historic ceremony at Puʻukoholā Heiau"
+    }
+  },
+  {
+    "fullName": "Pullman National Historical Park",
+    "parkCode": "pull",
+    "states": "IL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/20E409DD-D017-0B84-52AEE57620BCD240.jpg",
+      "altText": "front of clocktower taken looking up  with blue sky, sunny"
+    }
+  },
+  {
+    "fullName": "Rainbow Bridge National Monument",
+    "parkCode": "rabr",
+    "states": "UT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7F2C6F-1DD8-B71B-0B3A38DBC8161E3E.jpg",
+      "altText": "A large sandstone arch - a natural bridge."
+    }
+  },
+  {
+    "fullName": "Reconstruction Era National Historical Park",
+    "parkCode": "reer",
+    "states": "SC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C1E96A3D-D248-AD79-ABDA8E7BE3A38597.jpg",
+      "altText": "A two story brick building flanked by large live oak trees"
+    }
+  },
+  {
+    "fullName": "Redwood National and State Parks",
+    "parkCode": "redw",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/CD69DD56-E050-4F4E-DDF622317D38250E.jpg",
+      "altText": "View from forest floor looking straight up. Ferns as seen close up and redwood trunks meet."
+    }
+  },
+  {
+    "fullName": "Richmond National Battlefield Park",
+    "parkCode": "rich",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C79860B-1DD8-B71B-0BF764186C0B45DF.jpg",
+      "altText": "Earthworks at Fort Harrison"
+    }
+  },
+  {
+    "fullName": "Rio Grande Wild & Scenic River",
+    "parkCode": "rigr",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/7F2119C6-9098-7131-FCBAC74787E4E2DB.jpg",
+      "altText": "Canoeing Boquillas Canyon"
+    }
+  },
+  {
+    "fullName": "River Raisin National Battlefield Park",
+    "parkCode": "rira",
+    "states": "MI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7C380D-1DD8-B71B-0BB6B63A283B9B55.jpg",
+      "altText": "Painting of the Battle of the River Raisin"
+    }
+  },
+  {
+    "fullName": "Rock Creek Park",
+    "parkCode": "rocr",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/5578822B-0F57-D3E7-A49D70F3D88C1509.jpg",
+      "altText": "Stone bridge and fall leaves"
+    }
+  },
+  {
+    "fullName": "Rocky Mountain National Park",
+    "parkCode": "romo",
+    "states": "CO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/75F451C0-9879-9221-DBFF3B28A5C7DAA9.jpg",
+      "altText": "Morning light in RMNP"
+    }
+  },
+  {
+    "fullName": "Roger Williams National Memorial",
+    "parkCode": "rowi",
+    "states": "RI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/0B4D5074-F708-48D7-F777ACFC754336C4.jpg",
+      "altText": "View of the historic well through crabapple trees"
+    }
+  },
+  {
+    "fullName": "Roosevelt Campobello International Park",
+    "parkCode": "roca",
+    "states": "ME",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C87DAB6-1DD8-B71B-0BEB25E5636E1E5F.jpg",
+      "altText": "Hubbard Cottage"
+    }
+  },
+  {
+    "fullName": "Rosie the Riveter WWII Home Front National Historical Park",
+    "parkCode": "rori",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/F8CEA1B0-0720-7F6B-CC788F958BCC5249.jpg",
+      "altText": "Entrance sign against the historic Ford buidling."
+    }
+  },
+  {
+    "fullName": "Russell Cave National Monument",
+    "parkCode": "ruca",
+    "states": "AL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8726D8-1DD8-B71B-0BD90F30D72A98BF.jpg",
+      "altText": "Russell Cave in Spring"
+    }
+  },
+  {
+    "fullName": "Sagamore Hill National Historic Site",
+    "parkCode": "sahi",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/ECB04F63-907D-CA88-695806E416BB05D8.jpg",
+      "altText": "A large house painted gray with green lawn and trees."
+    }
+  },
+  {
+    "fullName": "Saguaro National Park",
+    "parkCode": "sagu",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/5CB8B2F6-01B7-9A50-73702A355E4136B8.jpg",
+      "altText": "Saguaro flowers"
+    }
+  },
+  {
+    "fullName": "Saint Croix Island International Historic Site",
+    "parkCode": "sacr",
+    "states": "ME",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7B31B6-1DD8-B71B-0BC1CE33970A8EAD.jpg",
+      "altText": "View of the drive into Saint Croix Island International Historic Site."
+    }
+  },
+  {
+    "fullName": "Saint Croix National Scenic Riverway",
+    "parkCode": "sacn",
+    "states": "WI,MN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/FDF3ACBD-9525-5BD1-4CEC071C9F2BD6DE.png",
+      "altText": "A blue river winds through a valley lined with trees in autumn color."
+    }
+  },
+  {
+    "fullName": "Saint Paul's Church National Historic Site",
+    "parkCode": "sapa",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C854A64-1DD8-B71B-0B52ECD0B7FF74F2.jpg",
+      "altText": "Rebecca Turner gravesite"
+    }
+  },
+  {
+    "fullName": "Saint-Gaudens National Historical Park",
+    "parkCode": "saga",
+    "states": "NH",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C856833-1DD8-B71B-0BAEFC61DA10D0B6.jpg",
+      "altText": "Looking toward Aspet from the Pan Garden"
+    }
+  },
+  {
+    "fullName": "Salem Maritime National Historical Park",
+    "parkCode": "sama",
+    "states": "MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C852B17-1DD8-B71B-0BB86A151B7BE502.jpg",
+      "altText": "A three mast tall ship on the water under a blue sky with red brick buildings on the shore."
+    }
+  },
+  {
+    "fullName": "Salinas Pueblo Missions National Monument",
+    "parkCode": "sapu",
+    "states": "NM",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C860054-1DD8-B71B-0BE09BE0AD611F0B.jpg",
+      "altText": "Pink flowers and green foliage frame the roofless remains of a stone mission."
+    }
+  },
+  {
+    "fullName": "Salt River Bay National Historical Park and Ecological Preserve",
+    "parkCode": "sari",
+    "states": "VI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/D0B758DC-1DD8-B71B-0B463C640F211F0A.jpg",
+      "altText": "View of the Salt River Bay Visitor Contact Station"
+    }
+  },
+  {
+    "fullName": "San Antonio Missions National Historical Park",
+    "parkCode": "saan",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/90077B69-9ADB-DEE2-B0637EE8165E8299.jpg",
+      "altText": "White frescoed church with a stone ruin to the left in the foreground."
+    }
+  },
+  {
+    "fullName": "San Francisco Maritime National Historical Park",
+    "parkCode": "safr",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7B8245-1DD8-B71B-0B3598B410FDBACE.jpg",
+      "altText": "The bow and masts of a 19th century sailing ship."
+    }
+  },
+  {
+    "fullName": "San Juan Island National Historical Park",
+    "parkCode": "sajh",
+    "states": "WA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C81CFC5-1DD8-B71B-0B16B28795ED1CA0.jpg",
+      "altText": "a sun setting behind historic parade grounds"
+    }
+  },
+  {
+    "fullName": "San Juan National Historic Site",
+    "parkCode": "saju",
+    "states": "PR",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7AF5C5-1DD8-B71B-0B40514DB1A21024.jpg",
+      "altText": "Castillo San Felipe del Morro Aereal View"
+    }
+  },
+  {
+    "fullName": "Sand Creek Massacre National Historic Site",
+    "parkCode": "sand",
+    "states": "CO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C841052-1DD8-B71B-0B0333C9B2FBE609.jpg",
+      "altText": "Four white Indian lodges on a grassy plain."
+    }
+  },
+  {
+    "fullName": "Santa Fe National Historic Trail",
+    "parkCode": "safe",
+    "states": "CO,KS,MO,NM,OK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/5580C726-C882-0DDF-0171D443948EB5F4.jpg",
+      "altText": "Warm light from the setting sun gives an orange glow to a rock bluff overlooking a grassland."
+    }
+  },
+  {
+    "fullName": "Santa Monica Mountains National Recreation Area",
+    "parkCode": "samo",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/1562B20E-ECB2-8C39-845FD157BDF14D22.jpg",
+      "altText": "Sunbeams reaching from glowing sun over the ocean."
+    }
+  },
+  {
+    "fullName": "Saratoga National Historical Park",
+    "parkCode": "sara",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/34CA87C1-BED7-8CCB-FC1C4957267B40D5.jpg",
+      "altText": "A man wearing 18th-century clothing carrying a musket and a farmhouse are silhouetted by sunrise."
+    }
+  },
+  {
+    "fullName": "Saugus Iron Works National Historic Site",
+    "parkCode": "sair",
+    "states": "MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C852E9B-1DD8-B71B-0BA7396E0D076BDB.jpg",
+      "altText": "Several wooden structures amid green fields and trees under partly cloudy sky and beside river."
+    }
+  },
+  {
+    "fullName": "Scotts Bluff National Monument",
+    "parkCode": "scbl",
+    "states": "NE",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7AB9C7-1DD8-B71B-0BE8539018DE86B3.jpg",
+      "altText": "Conestoga wagon in front of Eagle Rock"
+    }
+  },
+  {
+    "fullName": "Selma To Montgomery National Historic Trail",
+    "parkCode": "semo",
+    "states": "AL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C878A7E-1DD8-B71B-0B5F97E4D222FACF.jpg",
+      "altText": "50th Anniversary Walking Classroom Participants."
+    }
+  },
+  {
+    "fullName": "Sequoia & Kings Canyon National Parks",
+    "parkCode": "seki",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7A250B-1DD8-B71B-0BCF61A89A8B2970.jpg",
+      "altText": "A deep canyon with a forested floor and steep granite cliffs"
+    }
+  },
+  {
+    "fullName": "Shenandoah National Park",
+    "parkCode": "shen",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C80B539-1DD8-B71B-0BEAAA4AC31E7D5B.jpg",
+      "altText": "A man stands on a rocky outcrop overlooking the receding mountains."
+    }
+  },
+  {
+    "fullName": "Shiloh National Military Park",
+    "parkCode": "shil",
+    "states": "TN,MS",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/C17670A9-D87F-BF06-7D5D3B3C515AAFDF.jpg",
+      "altText": "Ruggles Battery at Shiloh"
+    }
+  },
+  {
+    "fullName": "Sitka National Historical Park",
+    "parkCode": "sitk",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/595854BB-0FD5-AA9C-FD9B70A673563D8F.png",
+      "altText": "A totem pole in the foreground with a sunset over water in the background."
+    }
+  },
+  {
+    "fullName": "Sleeping Bear Dunes National Lakeshore",
+    "parkCode": "slbe",
+    "states": "MI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/6039A7C7-076A-897E-9E33B512C1067A09.jpg",
+      "altText": "Sand and pebbles in foreground with turquoise water in background"
+    }
+  },
+  {
+    "fullName": "Springfield 1908 Race Riot National Monument",
+    "parkCode": "spra",
+    "states": "IL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/9C79FA2A-CEE8-E14A-A7FC097D059161B7.jpg",
+      "altText": "Historic photo of militia members standing in the remains of a burned building."
+    }
+  },
+  {
+    "fullName": "Springfield Armory National Historic Site",
+    "parkCode": "spar",
+    "states": "MA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/D351A3D5-1DD8-B71B-0B9E169EA16305E9.jpg",
+      "altText": "The Main Arsenal"
+    }
+  },
+  {
+    "fullName": "Star-Spangled Banner National Historic Trail",
+    "parkCode": "stsp",
+    "states": "MD,VA,DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/F108B920-E383-8D58-961E7B7E0C438B74.jpg",
+      "altText": "A tall ship sails on the water."
+    }
+  },
+  {
+    "fullName": "Statue Of Liberty National Monument",
+    "parkCode": "stli",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C85432E-1DD8-B71B-0B678722109EDDF3.jpg",
+      "altText": "Patina green statue atop her pedestal on Liberty Island; grey cloudy sky in the distance"
+    }
+  },
+  {
+    "fullName": "Ste. Geneviève National Historical Park",
+    "parkCode": "stge",
+    "states": "MO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/6FED42BD-930F-B92A-9CC652F2D045D60D.jpg",
+      "altText": "Frame house made of wood with U.S. and French flags flying on front porch."
+    }
+  },
+  {
+    "fullName": "Steamtown National Historic Site",
+    "parkCode": "stea",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/602A3D89-EDEA-FD1D-5BBB631A9E78AD13.jpg",
+      "altText": "large black train with number 6039 painted in white lettering, sitting on turntable track"
+    }
+  },
+  {
+    "fullName": "Stones River National Battlefield",
+    "parkCode": "stri",
+    "states": "TN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/7433C5A9-1DD8-B71B-0B8D22CB43F53B7C.jpg",
+      "altText": "The sun rises behind a green field with a cannon in the foreground."
+    }
+  },
+  {
+    "fullName": "Stonewall National Monument",
+    "parkCode": "ston",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/B8D363E8-B3FB-A486-4AD8A4E9BF314140.jpeg",
+      "altText": "Pink and purple tulips in bloom with the Pride flag waving above a statue in the background."
+    }
+  },
+  {
+    "fullName": "Sunset Crater Volcano National Monument",
+    "parkCode": "sucr",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7E279C-1DD8-B71B-0BBF86870A971E2B.jpg",
+      "altText": "a cinder cone volcano and ponderosa pine trees"
+    }
+  },
+  {
+    "fullName": "Tallgrass Prairie National Preserve",
+    "parkCode": "tapr",
+    "states": "KS",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C799F41-1DD8-B71B-0BE449FCE70F95CA.jpg",
+      "altText": "fall wildflowers at the preserve"
+    }
+  },
+  {
+    "fullName": "Thaddeus Kosciuszko National Memorial",
+    "parkCode": "thko",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7ADDD2-1DD8-B71B-0B128C61D6236420.jpg",
+      "altText": "Color photo showing a three story brick rowhouse on a corner lot."
+    }
+  },
+  {
+    "fullName": "The White House and President's Park",
+    "parkCode": "whho",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C85DF8B-1DD8-B71B-0B3BCAF449D7D845.jpg",
+      "altText": "The White House and South Lawn."
+    }
+  },
+  {
+    "fullName": "Theodore Roosevelt Birthplace National Historic Site",
+    "parkCode": "thrb",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C855E63-1DD8-B71B-0B4BD6B7AEC50FF4.jpg",
+      "altText": "Theodore Roosevelt Birthplace Exterior"
+    }
+  },
+  {
+    "fullName": "Theodore Roosevelt Inaugural National Historic Site",
+    "parkCode": "thri",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7BD805-1DD8-B71B-0B1E51DD10FB6FAA.jpg",
+      "altText": "Theodore Roosevelt Inaugural Site"
+    }
+  },
+  {
+    "fullName": "Theodore Roosevelt Island",
+    "parkCode": "this",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C85E097-1DD8-B71B-0BA63E687BBA913E.jpg",
+      "altText": "A bronze statue of Theodore Roosevelt standing and pointing."
+    }
+  },
+  {
+    "fullName": "Theodore Roosevelt National Park",
+    "parkCode": "thro",
+    "states": "ND",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C793AD5-1DD8-B71B-0B4A3C1BFA5B4C83.jpg",
+      "altText": "A colorfully striped butte in the foreground overlooks a dark green badlands landscape"
+    }
+  },
+  {
+    "fullName": "Thomas Cole National Historic Site",
+    "parkCode": "thco",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/2D840ABD-9893-BA8E-49B75545C9AD5875.jpg",
+      "altText": "A three story house with large porch across the front and flight of steps leading to the ground."
+    }
+  },
+  {
+    "fullName": "Thomas Edison National Historical Park",
+    "parkCode": "edis",
+    "states": "NJ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C81E2B0-1DD8-B71B-0B55C38EB2E224A5.jpg",
+      "altText": "Large salmon colored Victorian mansion with green lawn and blue sky"
+    }
+  },
+  {
+    "fullName": "Thomas Jefferson Memorial",
+    "parkCode": "thje",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/F313C540-E6E1-3928-D14883E746D101E9.jpg",
+      "altText": "Thomas Jefferson Memorial reflects on Tidal Basin"
+    }
+  },
+  {
+    "fullName": "Thomas Stone National Historic Site",
+    "parkCode": "thst",
+    "states": "MD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/1045ACA0-BB5B-C428-2272CC5E8E76A87C.jpg",
+      "altText": "5 part Mansion at Haberdeventure"
+    }
+  },
+  {
+    "fullName": "Timpanogos Cave National Monument",
+    "parkCode": "tica",
+    "states": "UT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C83CDD6-1DD8-B71B-0B2C642E4C17AC62.jpg",
+      "altText": "Twisty helictites growing off a stalactite"
+    }
+  },
+  {
+    "fullName": "Timucuan Ecological & Historic Preserve",
+    "parkCode": "timu",
+    "states": "FL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7B4D58-1DD8-B71B-0B40B94C4363CBFB.jpg",
+      "altText": "slave cabins made of tabby with wooden roofs"
+    }
+  },
+  {
+    "fullName": "Tonto National Monument",
+    "parkCode": "tont",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C81D952-1DD8-B71B-0B67D23426B08661.jpg",
+      "altText": "cliff dwelling in the spring with desert plants and wildflowers."
+    }
+  },
+  {
+    "fullName": "Touro Synagogue National Historic Site",
+    "parkCode": "tosy",
+    "states": "RI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C82D5FA-1DD8-B71B-0B69EBF05C11248B.jpg",
+      "altText": "Image of Touro Synagogue"
+    }
+  },
+  {
+    "fullName": "Trail Of Tears National Historic Trail",
+    "parkCode": "trte",
+    "states": "AL,AR,GA,IL,KY,MO,NC,OK,TN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7E670B-1DD8-B71B-0B25C5CD76BF4A04.jpg",
+      "altText": "large white house, green lawn, two trees in front"
+    }
+  },
+  {
+    "fullName": "Tule Lake National Monument",
+    "parkCode": "tule",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/529AA262-F23D-E5D9-A8B28ED0215975DD.jpg",
+      "altText": "White house with a concrete deck and flag poll in the front."
+    }
+  },
+  {
+    "fullName": "Tule Springs Fossil Beds National Monument",
+    "parkCode": "tusk",
+    "states": "NV",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C85F41B-1DD8-B71B-0B8406CBCA19D911.jpg",
+      "altText": "Tule Springs during winter"
+    }
+  },
+  {
+    "fullName": "Tumacácori National Historical Park",
+    "parkCode": "tuma",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C79D947-1DD8-B71B-0BD91C826A5B9030.jpg",
+      "altText": "panorama of mission church with green grass and clouds"
+    }
+  },
+  {
+    "fullName": "Tupelo National Battlefield",
+    "parkCode": "tupe",
+    "states": "MS",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C844354-1DD8-B71B-0B1A7DB85F697FC5.jpg",
+      "altText": "The monument with a cannon"
+    }
+  },
+  {
+    "fullName": "Tuskegee Airmen National Historic Site",
+    "parkCode": "tuai",
+    "states": "AL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C87CA3F-1DD8-B71B-0B1A6DBC5E5DF262.jpg",
+      "altText": "Red-Tail P-51D Mustang In Flight Exhibit"
+    }
+  },
+  {
+    "fullName": "Tuskegee Institute National Historic Site",
+    "parkCode": "tuin",
+    "states": "AL",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C880363-1DD8-B71B-0B19DE390A6D20CD.jpg",
+      "altText": "A three story Queen Anne Revival style red brick house"
+    }
+  },
+  {
+    "fullName": "Tuzigoot National Monument",
+    "parkCode": "tuzi",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7E3BF6-1DD8-B71B-0B9CC85A87942B5C.jpg",
+      "altText": "A marsh with open water, cattails, and a masonry dwelling beyond."
+    }
+  },
+  {
+    "fullName": "Ulysses S Grant National Historic Site",
+    "parkCode": "ulsg",
+    "states": "MO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C827360-1DD8-B71B-0BF9ADC1F4742F80.jpg",
+      "altText": "View of house with fence. Autumn colored leaves on trees"
+    }
+  },
+  {
+    "fullName": "Upper Delaware Scenic & Recreational River",
+    "parkCode": "upde",
+    "states": "NY,PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/CCDE00F6-1DD8-B71B-0BF8D6AEEFB16FAC.jpg",
+      "altText": "a view of the Delaware River"
+    }
+  },
+  {
+    "fullName": "Valles Caldera National Preserve",
+    "parkCode": "vall",
+    "states": "NM",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/921E6FBB-90EE-2BF0-6F3D52902F3DA89D.jpg",
+      "altText": "Scattered clouds over landscape view of winding river and brown grasslands"
+    }
+  },
+  {
+    "fullName": "Valley Forge National Historical Park",
+    "parkCode": "vafo",
+    "states": "PA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/B0AC3B46-F1F9-B2A1-4DA9CE223B32166F.jpg",
+      "altText": "Field of yellow flowers in the foreground with two log huts and a paved trail in the middle distance"
+    }
+  },
+  {
+    "fullName": "Vanderbilt Mansion National Historic Site",
+    "parkCode": "vama",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C810D33-1DD8-B71B-0B857963C3AEC92E.jpg",
+      "altText": "Misty April Morning"
+    }
+  },
+  {
+    "fullName": "Vicksburg National Military Park",
+    "parkCode": "vick",
+    "states": "MS,LA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C79F947-1DD8-B71B-0B6F394F6E31CAE2.jpg",
+      "altText": "Union cannon aimed at Confederate lines"
+    }
+  },
+  {
+    "fullName": "Vietnam Veterans Memorial",
+    "parkCode": "vive",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/B7747C16-EFF0-AE6C-C2CCE4E52D34F1F7.jpg",
+      "altText": "Lights glow at the base of the wall of the Vietnam Veterans Memorial with Washington Monument."
+    }
+  },
+  {
+    "fullName": "Virgin Islands Coral Reef National Monument",
+    "parkCode": "vicr",
+    "states": "VI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/D67D3D53-1DD8-B71B-0BCC67BD08FD4E6B.jpg",
+      "altText": "Parrot Fish posing for the camera over several corals"
+    }
+  },
+  {
+    "fullName": "Virgin Islands National Park",
+    "parkCode": "viis",
+    "states": "VI",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/1F0534AF-91EB-443B-41760F790BE42778.jpg",
+      "altText": "Turquoise water laps white sandy shore fringed with lush green vegetation."
+    }
+  },
+  {
+    "fullName": "Voyageurs National Park",
+    "parkCode": "voya",
+    "states": "MN",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8405EF-1DD8-B71B-0B42909E4E77E144.jpg",
+      "altText": "Northern Lights over Voyageurs National Park waters"
+    }
+  },
+  {
+    "fullName": "Waco Mammoth National Monument",
+    "parkCode": "waco",
+    "states": "TX",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7F3BE3-1DD8-B71B-0BD24272B0D8B14F.jpg",
+      "altText": "Visitors view fossils from walkway"
+    }
+  },
+  {
+    "fullName": "Walnut Canyon National Monument",
+    "parkCode": "waca",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/BD960798-C876-B810-51981256E26FDB64.jpg",
+      "altText": "Walnut Canyon's cliff dwellings are illuminated by the afternoon sun."
+    }
+  },
+  {
+    "fullName": "War In The Pacific National Historical Park",
+    "parkCode": "wapa",
+    "states": "GU",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C84E1DA-1DD8-B71B-0B51C510B3B8336F.jpg",
+      "altText": "Mountain view down toward beach."
+    }
+  },
+  {
+    "fullName": "Washington Monument",
+    "parkCode": "wamo",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C815A59-1DD8-B71B-0B153A3989783B78.jpg",
+      "altText": "Washington Monument at Dusk"
+    }
+  },
+  {
+    "fullName": "Washington-Rochambeau Revolutionary Route National Historic Trail",
+    "parkCode": "waro",
+    "states": "MA,RI,CT,NY,NJ,PA,DE,MD,VA,DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/38D13B48-1DD8-B71B-0B557C5D33E45D9D.jpg",
+      "altText": "Flag marking the trail"
+    }
+  },
+  {
+    "fullName": "Washita Battlefield National Historic Site",
+    "parkCode": "waba",
+    "states": "OK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C84A0E2-1DD8-B71B-0BD431BE8524A232.jpg",
+      "altText": "Cheyenne tipis backlite by sunset"
+    }
+  },
+  {
+    "fullName": "Weir Farm National Historical Park",
+    "parkCode": "wefa",
+    "states": "CT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C79474F-1DD8-B71B-0B09D5BBA22FB9D0.jpg",
+      "altText": "A view of the south side of the Weir House with porch visable, showing a fence in front of the home"
+    }
+  },
+  {
+    "fullName": "Whiskeytown National Recreation Area",
+    "parkCode": "whis",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C81470B-1DD8-B71B-0B1CF8A880DBD58D.jpg",
+      "altText": "A snowy day on top of Shasta Bally"
+    }
+  },
+  {
+    "fullName": "White Sands National Park",
+    "parkCode": "whsa",
+    "states": "NM",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/7CA16410-A412-1F05-2D92EB04EEB27980.jpg",
+      "altText": "White dunes in foreground with sun setting behind mountain."
+    }
+  },
+  {
+    "fullName": "Whitman Mission National Historic Site",
+    "parkCode": "whmi",
+    "states": "WA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/0BF0A3D7-D2A9-5705-180B4FED2BAA38FC.jpg",
+      "altText": "A tipi sits beneath a tree near a walking trail"
+    }
+  },
+  {
+    "fullName": "William Howard Taft National Historic Site",
+    "parkCode": "wiho",
+    "states": "OH",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/0D45DABD-A233-4C44-C2C50358855DCA46.jpg",
+      "altText": "A yellow two-story brick building with tall windows and green shutters on them"
+    }
+  },
+  {
+    "fullName": "Wilson's Creek National Battlefield",
+    "parkCode": "wicr",
+    "states": "MO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/EB8B9CDB-F889-440A-39F7A89402AF6B96.jpg",
+      "altText": "Men in reproduction uniforms talk around a campfire"
+    }
+  },
+  {
+    "fullName": "Wind Cave National Park",
+    "parkCode": "wica",
+    "states": "SD",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7ACD12-1DD8-B71B-0BEF13804E4498FF.jpg",
+      "altText": "a bison cow and calf on the prairie"
+    }
+  },
+  {
+    "fullName": "Wing Luke Museum Affiliated Area",
+    "parkCode": "wing",
+    "states": "WA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C81D25A-1DD8-B71B-0B9DAC16CFECEC36.jpg",
+      "altText": "theatre curtain painted with Japanese characters advertising local businesses"
+    }
+  },
+  {
+    "fullName": "Wolf Trap National Park for the Performing Arts",
+    "parkCode": "wotr",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8068F8-1DD8-B71B-0B3D0F4B88C2CD62.jpg",
+      "altText": "The Filene Center House full of patrons"
+    }
+  },
+  {
+    "fullName": "Women's Rights National Historical Park",
+    "parkCode": "wori",
+    "states": "NY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7C700A-1DD8-B71B-0B5C2C42B93C9B76.jpg",
+      "altText": "The Wesleyan Chapel in summer"
+    }
+  },
+  {
+    "fullName": "World War I Memorial",
+    "parkCode": "wwim",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/CB4DB522-0F64-662E-7F41883E1BEC3066.jpg",
+      "altText": "General Pershing Statue"
+    }
+  },
+  {
+    "fullName": "World War II Memorial",
+    "parkCode": "wwii",
+    "states": "DC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C8177E8-1DD8-B71B-0BE98D23BE5E7C32.jpg",
+      "altText": "Close up of Gold Stars in the Memorial"
+    }
+  },
+  {
+    "fullName": "Wrangell - St Elias National Park & Preserve",
+    "parkCode": "wrst",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7AAD63-1DD8-B71B-0BCE10FFD741A687.jpg",
+      "altText": "Glaciers loom over the ocean with large snowy mountains rising into blue skies"
+    }
+  },
+  {
+    "fullName": "Wright Brothers National Memorial",
+    "parkCode": "wrbr",
+    "states": "NC",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C835C3E-1DD8-B71B-0BD5373635F58D88.jpg",
+      "altText": "Orville takes to the air in the flyer for the first time as Wilbur assists."
+    }
+  },
+  {
+    "fullName": "Wupatki National Monument",
+    "parkCode": "wupa",
+    "states": "AZ",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/4B7C499B-FF4E-BAA4-56CFABC57B8F6E17.jpg",
+      "altText": "a large stone pueblo in a desert beneath mostly sunny skies with mountains in background"
+    }
+  },
+  {
+    "fullName": "Yellowstone National Park",
+    "parkCode": "yell",
+    "states": "ID,MT,WY",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7D5920-1DD8-B71B-0B83F012ED802CEA.jpg",
+      "altText": "Brilliant blues and greens of a hot spring ringed by oranges, yellows, reds, and browns."
+    }
+  },
+  {
+    "fullName": "Yorktown Battlefield Part of Colonial National Historical Park",
+    "parkCode": "york",
+    "states": "VA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7DF20A-1DD8-B71B-0B6F95C33437A94D.jpg",
+      "altText": "Cannon at sunset at Yorktown Battlefield"
+    }
+  },
+  {
+    "fullName": "Yosemite National Park",
+    "parkCode": "yose",
+    "states": "CA",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C84CC4C-1DD8-B71B-0BE967E5E5D93F25.jpg",
+      "altText": "Two tall waterfalls flowing down snow covered granite walls."
+    }
+  },
+  {
+    "fullName": "Yucca House National Monument",
+    "parkCode": "yuho",
+    "states": "CO",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/3C7C2020-1DD8-B71B-0B9F3E84D4AE2CD0.jpg",
+      "altText": "Cattails with mesa in background."
+    }
+  },
+  {
+    "fullName": "Yukon - Charley Rivers National Preserve",
+    "parkCode": "yuch",
+    "states": "AK",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/5441BF50-05AD-F33E-6A0339476B5B18EF.jpg",
+      "altText": "Aerial view of the Yukon River during fall colors"
+    }
+  },
+  {
+    "fullName": "Zion National Park",
+    "parkCode": "zion",
+    "states": "UT",
+    "image": {
+      "url": "https://www.nps.gov/common/uploads/structured_data/68BFC1AC-BF96-629F-89D261D78F181C64.jpg",
+      "altText": "A triangular sandstone mountain overlooks green and yellow foliage. A cloudy blue sky is overhead."
+    }
+  }
+]

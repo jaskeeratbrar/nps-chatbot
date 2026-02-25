@@ -2,42 +2,75 @@
 <html lang="en">
   <head>
     <meta charset="utf-8" />
-    <link rel="icon" href="%PUBLIC_URL%/favicon.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="theme-color" content="#000000" />
-    <meta
-      name="description"
-      content="Web site created using create-react-app"
-    />
-    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
-    <!--
-      manifest.json provides metadata used when your web app is installed on a
-      user's mobile device or desktop. See https://developers.google.com/web/fundamentals/web-app-manifest/
-    -->
-    <link rel="manifest" href="%PUBLIC_URL%/manifest.json" />
-    <!--
-      Notice the use of %PUBLIC_URL% in the tags above.
-      It will be replaced with the URL of the `public` folder during the build.
-      Only files inside the `public` folder can be referenced from the HTML.
 
-      Unlike "/favicon.ico" or "favicon.ico", "%PUBLIC_URL%/favicon.ico" will
-      work correctly both with client-side routing and a non-root public URL.
-      Learn how to configure a non-root public URL by running `npm run build`.
-    -->
-    <title>React App</title>
+    <!-- ── Primary SEO ─────────────────────────────────────────────────── -->
+    <title>Park Guide — National Parks Campgrounds, Alerts &amp; Trip Planner</title>
+    <meta name="description"
+      content="Plan your perfect national park visit. Find campgrounds, real-time alerts, road closures, events, webcams, and get AI-powered day-by-day itineraries for all 474 US national parks." />
+    <meta name="keywords"
+      content="national parks, campgrounds, NPS, trip planner, national park alerts, park permits, Yellowstone, Yosemite, Grand Canyon, Zion, camping reservations, recreation.gov" />
+    <link rel="canonical" href="https://parkguide.app" />
+
+    <!-- ── Open Graph (Facebook, LinkedIn, iMessage previews) ──────────── -->
+    <meta property="og:type"        content="website" />
+    <meta property="og:url"         content="https://parkguide.app" />
+    <meta property="og:title"       content="Park Guide — National Parks Trip Planner" />
+    <meta property="og:description" content="Campgrounds, real-time alerts, road closures, events, webcams, and AI trip plans for all 474 US national parks — in one place." />
+    <meta property="og:site_name"   content="Park Guide" />
+    <!-- og:image — replace with a hosted OG image (1200×630) before launch -->
+    <!-- <meta property="og:image" content="https://parkguide.app/og-image.jpg" /> -->
+
+    <!-- ── Twitter / X Card ────────────────────────────────────────────── -->
+    <meta name="twitter:card"        content="summary_large_image" />
+    <meta name="twitter:title"       content="Park Guide — National Parks Trip Planner" />
+    <meta name="twitter:description" content="Campgrounds, alerts, road closures, events, webcams, and AI itineraries for all 474 NPS parks." />
+
+    <!-- ── Theme & PWA ─────────────────────────────────────────────────── -->
+    <meta name="theme-color" content="#059669" />
+    <meta name="application-name" content="Park Guide" />
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="Park Guide" />
+
+    <!-- ── Icons ───────────────────────────────────────────────────────── -->
+    <link rel="icon"             href="%PUBLIC_URL%/favicon.ico" />
+    <link rel="apple-touch-icon" href="%PUBLIC_URL%/logo192.png" />
+    <link rel="manifest"         href="%PUBLIC_URL%/manifest.json" />
+
+    <!-- ── Structured Data (JSON-LD) ───────────────────────────────────── -->
+    <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebApplication",
+      "name": "Park Guide",
+      "url": "https://parkguide.app",
+      "description": "Plan your national park visit with real-time campground details, alerts, road conditions, events, webcams, and AI-generated trip itineraries for all 474 US national parks.",
+      "applicationCategory": "TravelApplication",
+      "operatingSystem": "Any",
+      "offers": {
+        "@type": "Offer",
+        "price": "0",
+        "priceCurrency": "USD"
+      },
+      "featureList": [
+        "Campground search and details",
+        "Real-time park alerts and closures",
+        "Road condition updates",
+        "Park events calendar",
+        "Live webcam feeds",
+        "Visitor center information",
+        "AI-powered trip itinerary planning",
+        "474 US national parks covered"
+      ]
+    }
+    </script>
   </head>
   <body>
-    <noscript>You need to enable JavaScript to run this app.</noscript>
+    <noscript>
+      Park Guide requires JavaScript to run. Please enable JavaScript in your browser to plan your national park visit.
+    </noscript>
     <div id="root"></div>
-    <!--
-      This HTML file is a template.
-      If you open it directly in the browser, you will see an empty page.
-
-      You can add webfonts, meta tags, or analytics to this file.
-      The build step will place the bundled scripts into the <body> tag.
-
-      To begin the development, run `npm start` or `yarn start`.
-      To create a production bundle, use `npm run build` or `yarn build`.
-    -->
   </body>
 </html>
